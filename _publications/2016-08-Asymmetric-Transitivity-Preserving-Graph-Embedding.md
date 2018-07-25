@@ -2,7 +2,7 @@
 title: "Asymmetric Transitivity Preserving Graph Embedding"
 collection: publications
 permalink: /publication/2016-08-Asymmetric-Transitivity-Preserving-Graph-Embedding
-excerpt: 'network embedding, asymmetric transitivity, Generalized SVD (GSVD)'
+excerpt: 'Key words: graph embedding, asymmetric transitivity, Generalized SVD (GSVD)'
 date: 2016-08-01
 venue: KDD
 paperurl: 'https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf'

@@ -2,6 +2,7 @@
 title: "Billion-scale Network Embedding with Iterative Random Projection"
 collection: publications
 permalink: /publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection
+excerpt: 'Key words: network embedding, billion-scale, random projection, distributed algorithm, dynamic networks'
 date: 2018-08-01
 venue: arXiv
 paperurl: 'https://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf'

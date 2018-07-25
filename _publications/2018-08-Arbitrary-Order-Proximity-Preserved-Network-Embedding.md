@@ -2,6 +2,7 @@
 title: "Arbitrary-Order Proximity Preserved Network Embedding"
 collection: publications
 permalink: /publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding
+excerpt: 'Key words: network embedding, arbitrary-order proximity, SVD, eigen-decomposition'
 date: 2018-08-01
 venue: KDD
 paperurl: 'https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf'

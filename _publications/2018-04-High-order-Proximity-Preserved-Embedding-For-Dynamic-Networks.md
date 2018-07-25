@@ -2,6 +2,7 @@
 title: "High-order Proximity Preserved Embedding For Dynamic Networks"
 collection: publications
 permalink: /publication/2018-04-High-order-Proximity-Preserved-Embedding-For-Dynamic-Networks
+excerpt: 'Key words: network embedding, dynamic networks, Generalized SVD (GSVD), matrix perturbation'
 date: 2018-04-01
 venue: TKDE
 paperurl: 'https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf'

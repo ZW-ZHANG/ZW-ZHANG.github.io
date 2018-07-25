@@ -2,6 +2,7 @@
 title: "TIMERS Error Bounded SVD Restart on Dynamic Networks"
 collection: publications
 permalink: /publication/2018-02-TIMERS-Error-Bounded-SVD-Restart-on-Dynamic-Networks
+excerpt: 'Key words: dynamic networks, Singular Value Decomposition (SVD), restarts, matrix perturbation'
 date: 2018-02-01
 venue: AAAI
 paperurl: 'https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf'
@@ -41,6 +42,9 @@ of restarts. Our method reduces the number of restarts by 25%
 to 50% when fixing the maximum error tolerated.
 
 Code is available [here](https://github.com/ZW-ZHANG/TIMERS).
+
+Slide is available [here](https://zw-zhang.github.io/files/2018_AAAI_Slides.pdf).
+
 
 Recommended citation: 
 ```

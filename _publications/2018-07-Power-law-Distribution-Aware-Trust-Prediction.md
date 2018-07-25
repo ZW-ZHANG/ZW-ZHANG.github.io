@@ -2,6 +2,7 @@
 title: "Power-law Distribution Aware Trust Prediction"
 collection: publications
 permalink: /publication/2018-07-Power-law-Distribution-Aware-Trust-Prediction
+excerpt: 'Key words: trust prediction, sparse component, high-order proximity, matrix factorization'
 date: 2018-07-01
 venue: IJCAI
 paperurl: 'https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf'
