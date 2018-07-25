@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-02-TIMERS-Error-Bounded-SVD-Restart-on-Dynamic-Networks
 date: 2018-02-01
 venue: AAAI
-#paperurl: 'http://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf'
+paperurl: 'https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf'
 citation: 'Zhang, Ziwei, et al. "TIMERS: Error-Bounded SVD Restart on Dynamic Networks." Proceedings of the 32nd AAAI Conference on Artificial Intelligence (2018).'
 ---
 
@@ -40,7 +40,7 @@ for dynamic network reconstruction when fixing the number
 of restarts. Our method reduces the number of restarts by 25%
 to 50% when fixing the maximum error tolerated.
 
-[Download paper here]('http://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf')
+[Download paper here]('https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf')
 
 Recommended citation: 
 ```

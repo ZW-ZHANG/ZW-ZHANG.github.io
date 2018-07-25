@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-08-Asymmetric-Transitivity-Preserving-Graph-Embedding
 date: 2016-08-01
 venue: KDD
-#paperurl: 'http://zw-zhang.github.io/files/2016_KDD_HOPE.pdf'
+paperurl: 'https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf'
 citation: 'Ou, Mingdong, et al. "Asymmetric transitivity preserving graph embedding." Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2016.'
 ---
 
@@ -24,7 +24,7 @@ measurements based on their general formulation. Moreover, we provide a theoreti
 datasets demonstrate that HOPE can approximate the high-order proximities significantly better than the state-ofart
 algorithms and outperform the state-of-art algorithms in tasks of reconstruction, link prediction and vertex recommendation.
 
-[Download paper here](http://zw-zhang.github.io/files/2016_KDD_HOPE.pdf')
+[Download paper here](https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf')
 
 Recommended citation: 
 ```

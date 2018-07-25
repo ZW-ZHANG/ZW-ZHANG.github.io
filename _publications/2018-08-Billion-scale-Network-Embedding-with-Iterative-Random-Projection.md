@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection
 date: 2018-08-01
 venue: arXiv
-#paperurl: 'http://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf'
+paperurl: 'https://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf'
 citation: 'Zhang, Ziwei, et al. "Billion-scale Network Embedding with Iterative Random Projection." arXiv preprint arXiv:1805.02396 (2018).'
 ---
 Network embedding has attracted considerable research
@@ -33,7 +33,7 @@ prediction tasks on multiple datasets with different
 scales, ranging from thousands to billions of nodes
 and edges.
 
-[Download paper here](http://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf)
+[Download paper here](https://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf)
 
 Recommended citation: 
 ```

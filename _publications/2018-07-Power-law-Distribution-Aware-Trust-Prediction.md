@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-07-Power-law-Distribution-Aware-Trust-Prediction
 date: 2018-07-01
 venue: IJCAI
-#paperurl: 'http://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf'
+paperurl: 'https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf'
 citation: 'Wang, Xiao, et al. "Power-law Distribution Aware Trust Prediction." IJCAI. 2018.'
 ---
 
@@ -38,7 +38,7 @@ Extensive experimental results on real-world trust
 networks demonstrate the superior performance of
 our proposed method over the state-of-the-arts.
 
-[Download paper here](http://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf)
+[Download paper here](https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf)
 
 Recommended citation: 
 ```

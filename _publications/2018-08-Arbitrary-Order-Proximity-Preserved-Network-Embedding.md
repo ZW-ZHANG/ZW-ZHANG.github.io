@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding
 date: 2018-08-01
 venue: KDD
-#paperurl: 'http://zw-zhang.github.io/files/2018_KDD_AROPE.pdf'
+paperurl: 'https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf'
 citation: 'Zhang, Ziwei, et al. "Arbitrary-Order Proximity Preserved Network Embedding." Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2018.'
 ---
 Network embedding has received increasing research attention in
@@ -35,7 +35,7 @@ demonstrate that our proposed method greatly and consistently
 outperforms the baselines in various tasks including network reconstruction,
 link prediction and node classification.
 
-[Download paper here](http://zw-zhang.github.io/files/2018_KDD_AROPE.pdf)
+[Download paper here](https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf)
 
 Recommended citation: 
 ```

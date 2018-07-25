@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-04-High-order-Proximity-Preserved-Embedding-For-Dynamic-Networks
 date: 2018-04-01
 venue: TKDE
-#paperurl: 'http://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf'
+paperurl: 'https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf'
 citation: 'Zhu, Dingyuan, et al. "High-order Proximity Preserved Embedding For Dynamic Networks." IEEE Transactions on Knowledge and Data Engineering (2018).'
 ---
 Network embedding, aiming to embed a network into a low dimensional vector space while preserving the inherent
@@ -21,7 +21,7 @@ networks. Further, we propose an accelerated solution to the DHPE model so that 
 the number of nodes and number of changed edges in the network. Our empirical experiments on one synthetic network and several
 real-world networks demonstrate the effectiveness and efficiency of the proposed method.
 
-[Download paper here](http://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf)
+[Download paper here](https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf)
 
 Recommended citation: 
 ```

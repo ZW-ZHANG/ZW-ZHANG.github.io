@@ -84,7 +84,7 @@ author:
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AnrzkUUAAAAJ"
-  email            :
+  email            : "zw-zhang16 at mails dot tsinghua dot edu dot cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhangziwei/"
+  linkedin         : "zhangziwei"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
