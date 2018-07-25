@@ -38,8 +38,6 @@ Extensive experimental results on real-world trust
 networks demonstrate the superior performance of
 our proposed method over the state-of-the-arts.
 
-[Download paper here](https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf)
-
 Recommended citation: 
 ```
 @inproceedings{wang2018power,

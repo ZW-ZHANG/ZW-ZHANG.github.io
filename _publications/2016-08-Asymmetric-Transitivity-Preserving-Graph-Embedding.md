@@ -24,8 +24,6 @@ measurements based on their general formulation. Moreover, we provide a theoreti
 datasets demonstrate that HOPE can approximate the high-order proximities significantly better than the state-ofart
 algorithms and outperform the state-of-art algorithms in tasks of reconstruction, link prediction and vertex recommendation.
 
-[Download paper here](https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf')
-
 Recommended citation: 
 ```
 @inproceedings{ou2016asymmetric,

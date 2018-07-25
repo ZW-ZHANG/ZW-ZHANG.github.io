@@ -21,7 +21,6 @@ networks. Further, we propose an accelerated solution to the DHPE model so that 
 the number of nodes and number of changed edges in the network. Our empirical experiments on one synthetic network and several
 real-world networks demonstrate the effectiveness and efficiency of the proposed method.
 
-[Download paper here](https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf)
 
 Recommended citation: 
 ```

@@ -8,16 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for ZIWEI ZHANG, a second-year Ph.D candidate of Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
+This is the homepage for ZIWEI ZHANG, a second-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
+
+Contact
+-----
+Lab of Media and Network, Department of Computer Science and Technology, Tsinghua University
+
+_Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China_
+
+_Email: zw-zhang16 at mails dot tsinghua dot edu dot cn_
+
 
 News
 =====
-* [May 2018] Our paper on preserving arbitrary-order proximity in network embedding is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding). 
+* [May 2018] Our paper on preserving arbitrary-order proximity in network embedding is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) and see you in London! 
 * [Jan 2018] Welcome to visit our lab's page on [Network Representation Learning](http://nrl.thumedialab.com/) for soucecode and datasets.
 
 Biography
 =====
-
+Ziwei Zhang received his B.S. from the Department of Physics, Tsinghua University in 2016. 
+He is currently pursuing the Ph.D. Degree in the Department of Computer Science and Technology in Tsinghua University. 
+His research interests focus on network embedding and social network analysis, especially using matrix analysis theories. 
+He has published several papers in prestigious conferences and journals, including KDD, AAAI, IJCAI and TKDE.
 
 Publications
 =====

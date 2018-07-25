@@ -33,8 +33,6 @@ prediction tasks on multiple datasets with different
 scales, ranging from thousands to billions of nodes
 and edges.
 
-[Download paper here](https://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf)
-
 Recommended citation: 
 ```
 @article{zhang2018billion,
