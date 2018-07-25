@@ -10,15 +10,6 @@ redirect_from:
 
 This is the homepage for ZIWEI ZHANG, a second-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
 
-Contact
------
-Lab of Media and Network, Department of Computer Science and Technology, Tsinghua University
-
-_Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China_
-
-_Email: zw-zhang16 at mails dot tsinghua dot edu dot cn_
-
-
 News
 =====
 * [May 2018] Our paper on preserving arbitrary-order proximity in network embedding is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) and see you in London! 

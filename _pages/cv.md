@@ -9,13 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+-----
+Lab of Media and Network, Department of Computer Science and Technology, Tsinghua University
+
+_Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China_
+
+_Email: zw-zhang16 at mails dot tsinghua dot edu dot cn_
+
 Education
 -----
 * **B.S. in Mathematics and Physics**, Department of Physics, Tsinghua University, Beijing, China, 2016
   * Thesis: Non-transitive Graph Embedding
   * Advisor: Professor Wenwu Zhu and Professor Peng Cui
   
-* **Ph. D in Computer Science and Technology**, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2018 (expected)
+* **Ph. D in Computer Science and Technology**, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2021 (expected)
   * Thesis: Large-scale Network Embedding: Theories and Methods
   * Advisor: Professor Wenwu Zhu
   
@@ -31,7 +39,7 @@ Experiences
   * Applied Science in Vancouver Summer Program (VSP)
   
 * Dec, 2013 - May, 2014, Tsinghua University, Cluster-Based Text Data Cleaning                            
-*	Propose and implement a cluster-based algorithm to detect and correct false address data provided by DATUM DATA Co., LTD.
+  * Propose and implement a cluster-based algorithm to detect and correct false address data provided by DATUM DATA Co., LTD.
   
 Skills
 -----
@@ -57,4 +65,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Last update: May 7th, 2018
+  
+Last update: June 25th, 2018
