@@ -2,6 +2,7 @@
 title: "Asymmetric Transitivity Preserving Graph Embedding"
 collection: publications
 permalink: /publication/2016-08-Asymmetric-Transitivity-Preserving-Graph-Embedding
+excerpt：network embedding, asymmetric transitivity, Generalized SVD (GSVD)
 date: 2016-08-01
 venue: KDD
 paperurl: 'https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf'
@@ -23,6 +24,12 @@ measurements based on their general formulation. Moreover, we provide a theoreti
 (Root Mean Squared Error) of the approximation. Our empirical experiments on a synthetic dataset and three realworld
 datasets demonstrate that HOPE can approximate the high-order proximities significantly better than the state-ofart
 algorithms and outperform the state-of-art algorithms in tasks of reconstruction, link prediction and vertex recommendation.
+
+Code is available [here](https://github.com/ZW-ZHANG/HOPE).
+
+Presentation slide is available [here](https://zw-zhang.github.io/files/2016_KDD_Slides.pdf).
+
+Poster is available [here](https://zw-zhang.github.io/files/2016_KDD_Poster.jpg).
 
 Recommended citation: 
 ```

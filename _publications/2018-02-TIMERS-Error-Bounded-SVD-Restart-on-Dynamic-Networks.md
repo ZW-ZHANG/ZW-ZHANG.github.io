@@ -40,6 +40,8 @@ for dynamic network reconstruction when fixing the number
 of restarts. Our method reduces the number of restarts by 25%
 to 50% when fixing the maximum error tolerated.
 
+Code is available [here](https://github.com/ZW-ZHANG/TIMERS).
+
 Recommended citation: 
 ```
 @inproceedings{zhang2018timers,
