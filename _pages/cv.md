@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
-Work experience
+* *B.S. in Mathematics and Physics*, Department of Physics, Tsinghua University, Beijing, China, 2016
+  * Thesis: Non-transitive Graph Embedding
+  * Advisor: Professor Wenwu Zhu and Professor Peng Cui
+  
+* *Ph. D in Computer Science and Technology*, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2018 (expected)
+  * Thesis: Large-scale Network Embedding: Theories and Methods
+  * Advisor: Professor Wenwu Zhu
+  
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *Sep, 2014 – Present,  Lab of Media and Network, Tsinghua University*
+  * Work on topics related to network embedding (a.k.a. network representation learning), especially focusing on developing scalable and efficient embedding algorithms for large-scale networks.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *English*: academic reading & writing, fluent in daily communication.
+* *Programming*: proficient in MATLAB, C/C++, R, Latex, familiar with Python, Java. 
+* *Others*: photography, videography, Photoshop.
 
 Publications
 ======
@@ -57,3 +51,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Last update: May 7th, 2018
