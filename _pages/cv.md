@@ -38,7 +38,7 @@ Experiences
 * Jul, 2015 - Aug, 2015, University of British Columbia (UBC)
   * Applied Science in Vancouver Summer Program (VSP)
   
-* Dec, 2013 - May, 2014, Tsinghua University, Cluster-Based Text Data Cleaning                            
+* Dec, 2013 - May, 2014, Cluster-Based Text Data Cleaning                            
   * Propose and implement a cluster-based algorithm to detect and correct false address data provided by DATUM DATA Co., LTD.
   
 Skills
