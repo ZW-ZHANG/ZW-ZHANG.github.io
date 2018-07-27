@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage for ZIWEI ZHANG, a second-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
+This is the homepage of ZIWEI ZHANG, a second-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
 
 News
 =====
