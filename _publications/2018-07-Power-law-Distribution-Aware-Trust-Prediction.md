@@ -39,6 +39,8 @@ Extensive experimental results on real-world trust
 networks demonstrate the superior performance of
 our proposed method over the state-of-the-arts.
 
+Code is available [here](https://github.com/ZW-ZHANG/Powerlaw_TP).
+
 Recommended citation: 
 ```
 @inproceedings{wang2018power,
