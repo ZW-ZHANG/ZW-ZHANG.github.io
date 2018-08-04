@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Network Embedding Papers"
-permalink: /NE_papers/
+permalink: /NEpapers/
 author_profile: false
 ---
 
-{% for post in site.NE_papers reversed %}
+{% for post in site.NEpapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
