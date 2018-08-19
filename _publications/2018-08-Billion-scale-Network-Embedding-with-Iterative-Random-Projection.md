@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection
 excerpt: 'Key words: network embedding, billion-scale, random projection, distributed algorithm, dynamic networks'
 date: 2018-08-01
-venue: arXiv
+venue: ICDM
 paperurl: 'https://zw-zhang.github.io/files/2018_Arxiv_RandNE.pdf'
-citation: 'Zhang, Ziwei, et al. "Billion-scale Network Embedding with Iterative Random Projection." arXiv preprint arXiv:1805.02396 (2018).'
+citation: 'Zhang, Ziwei, et al. "Billion-scale Network Embedding with Iterative Random Projection." Data Mining (ICDM), 2018 IEEE International Conference on. IEEE, 2018.'
 ---
 Network embedding has attracted considerable research
 attention recently. However, the existing
@@ -36,10 +36,11 @@ and edges.
 
 Recommended citation: 
 ```
-@article{zhang2018billion,
+@inproceedings{zhang2018billion,
   title={Billion-scale Network Embedding with Iterative Random Projection},
   author={Zhang, Ziwei and Cui, Peng and Li, Haoyang and Wang, Xiao and Zhu, Wenwu},
-  journal={arXiv preprint arXiv:1805.02396},
-  year={2018}
+  booktitle={Data Mining (ICDM), 2018 IEEE International Conference on},
+  year={2018},
+  organization={IEEE}
 }
 ```
