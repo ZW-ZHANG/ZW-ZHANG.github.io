@@ -32,7 +32,7 @@ Experiences
 * Sep, 2014 – Present, Lab of Media and Network, Tsinghua University
   * Work on topics related to network embedding (a.k.a. network representation learning), especially focusing on developing scalable and efficient embedding algorithms for large-scale networks.
 
-* Jul, 2018 - Present, Intern at Data Application Team, WeChat Group (WXG), Tencent
+* Jul, 2018 - Oct, 2018, Intern at Data Application Team, WeChat Group (WXG), Tencent
   * Work on topics related to applying network embedding into analyzing WeChat data. 
   
 * Jan, 2016 - Feb, 2016, University of Sydney
@@ -69,4 +69,4 @@ Teaching
   {% endfor %}</ul>
 
   
-Last update: August 20th, 2018
+Last update: November 27th, 2018
