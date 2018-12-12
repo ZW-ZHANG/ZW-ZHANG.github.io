@@ -40,5 +40,5 @@ Preprints
 
 Awards
 =====
-2018    National Scholarship
-2018    Student Travel Awards: AAAI, ICDM
+* 2018    National Scholarship
+* 2018    Student Travel Awards: AAAI, ICDM
