@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of ZIWEI ZHANG, a second-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
+This is the homepage of ZIWEI ZHANG, a third-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
 
 News
 =====
+* [Dec 2018] We write a survey about deep learning on graphs. See more [here](https://arxiv.org/abs/1812.04202) !
 * [Aug 2018] Our paper on billion-scale network embedding is accepted by ICDM! See more [here](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) and see you in Singapore!
 * [May 2018] Our paper on preserving arbitrary-order proximity in network embedding is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) and see you in London! 
 * [Jan 2018] Welcome to visit our lab's page on [Network Representation Learning](http://nrl.thumedialab.com/) for soucecode and datasets.
@@ -34,4 +35,10 @@ Publications
 
 Preprints
 =====
+* Ziwei Zhang, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _Arxiv, 1812.04202_ [(Paper)] (https://arxiv.org/abs/1812.04202)
 * Ziwei Zhang. A Note on Spectral Clustering and SVD of Graph Data. _Arxiv, 1809.11029_ [(Paper)](https://arxiv.org/abs/1809.11029)
+
+Awards
+=====
+2018    National Scholarship
+2018    Student Travel Awards: AAAI, ICDM
