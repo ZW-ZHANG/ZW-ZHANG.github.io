@@ -1,5 +1,5 @@
 ---
-title: "TA of Big Data Analysis and Processing, Spring 2018, Autumn 2018"
+title: "TA of Big Data Analysis and Processing, Spring 2018, Autumn 2018, Spring 2019"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2018-Spring-TA
@@ -10,4 +10,4 @@ location: "Beijing, China"
 
 Create and grade course assessments, help lectures preparing for class materials and Q&A after class.
 
-Organizing students to participate in data competitions.
+Organizing students to participate in data competitions, such as Kaggle, KDD Cup, etc.

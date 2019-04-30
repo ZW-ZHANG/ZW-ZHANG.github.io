@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of ZIWEI ZHANG, a third-year Ph.D candidate in Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
+This is the homepage of ZIWEI ZHANG, a third-year Ph.D candidate in the Department of Computer Science and Technology, Tsinghua University. Feel free to look around or contact me through email for any question.
 
 News
 =====
 * [Dec 2018] We write a survey about [deep learning on graphs](https://arxiv.org/abs/1812.04202).
+* [Apr 2019] Our paper on robust GCN against adversarial attacks is accepted by KDD! See you in Alaska!
 * [Aug 2018] Our paper on billion-scale network embedding is accepted by ICDM! See more [here](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) and see you in Singapore!
 * [May 2018] Our paper on preserving arbitrary-order proximity in network embedding is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) and see you in London! 
 * [Jan 2018] Welcome to visit our lab's page on [Network Representation Learning](http://nrl.thumedialab.com/) for soucecode and datasets.
@@ -21,11 +22,12 @@ Biography
 =====
 Ziwei Zhang received his B.S. from the Department of Physics, Tsinghua University in 2016. 
 He is currently pursuing the Ph.D. Degree in the Department of Computer Science and Technology in Tsinghua University. 
-His research interests focus on network embedding and social network analysis, especially using matrix analysis theories. 
+His research interests focus on network embedding and social network analysis, especially developing scalable algorithms for large-scale networks. 
 He has published several papers in prestigious conferences and journals, including KDD, AAAI, IJCAI and TKDE.
 
 Publications
 =====
+* Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ Coming soon
 * **Ziwei Zhang**, Peng Cui, Haoyang Li, Xiao Wang, Wenwu Zhu. Billion-scale Network Embedding with Iterative Random Projection. _ICDM, 2018. (Full Paper, Oral, acceptance rate 8.9%)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) [(Paper)](https://zw-zhang.github.io/files/2018_ICDM_RandNE.pdf)  [(Code)](https://github.com/ZW-ZHANG/RandNE) [(Slides)](https://zw-zhang.github.io/files/2018_ICDM_Slides.pdf)
 * **Ziwei Zhang**, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu. Arbitrary-Order Proximity Preserved Network Embedding. _KDD, 2018. (Full Paper, Oral, acceptance rate 10.8%)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) [(Paper)](https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf) [(Code)](https://github.com/ZW-ZHANG/AROPE) [(Slides)](https://zw-zhang.github.io/files/2018_KDD_Slides.pdf)
 * Xiao Wang\*, **Ziwei Zhang**\*, Jing Wang, Peng Cui, Shiqiang Yang. Power-law Distribution Aware Trust Prediction. _IJCAI, 2018. (Full Paper, Oral, acceptance rate 20.5%,\*: equal contribution)_ [(Page)](https://zw-zhang.github.io/publication/2018-07-Power-law-Distribution-Aware-Trust-Prediction) [(Paper)](https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf) [(Code)](https://github.com/ZW-ZHANG/Powerlaw_TP)

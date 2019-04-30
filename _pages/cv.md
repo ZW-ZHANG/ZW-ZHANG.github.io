@@ -24,7 +24,6 @@ Education
   * Advisor: Professor Wenwu Zhu and Professor Peng Cui
   
 * **Ph. D in Computer Science and Technology**, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2021 (expected)
-  * Thesis: Large-scale Network Embedding: Theories and Methods
   * Advisor: Professor Wenwu Zhu
   
 Experiences
@@ -48,7 +47,6 @@ Skills
 -----
 * **English**: academic reading & writing, fluent in daily communication.
 * **Programming**: proficient in MATLAB, C/C++, R, Latex, familiar with Python, Java. 
-* **Others**: photography, videography, Photoshop.
 
 Publications
 -----
@@ -69,4 +67,4 @@ Teaching
   {% endfor %}</ul>
 
   
-Last update: November 27th, 2018
+Last update: May 1st, 2019
