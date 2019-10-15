@@ -1,5 +1,5 @@
 ---
-title: "TA of Big Data Analysis and Processing, Spring 2018 - Autume 2019"
+title: "TA of Big Data Analysis and Processing, Spring 2018 - Autumn 2019"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2018-Spring-TA
