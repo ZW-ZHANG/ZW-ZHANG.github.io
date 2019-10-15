@@ -46,7 +46,7 @@ Experiences
 Skills
 -----
 * **English**: academic reading & writing, fluent in daily communication.
-* **Programming**: proficient in MATLAB, C/C++, R, Latex, familiar with Python, Java. 
+* **Programming**: proficient in Python, MATLAB, R, Latex, familiar with C/C++, Java. 
 
 Publications
 -----
