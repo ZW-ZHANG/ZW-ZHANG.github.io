@@ -39,7 +39,8 @@ Publications
 
 Preprints
 =====
-* Ziwei Zhang. A Note on Spectral Clustering and SVD of Graph Data. _Arxiv, 1809.11029._ [(Paper)](https://arxiv.org/abs/1809.11029)
+* **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _arXiv, 2006.04330._[(Paper)](http://arxiv.org/abs/2006.04330)
+* Ziwei Zhang. A Note on Spectral Clustering and SVD of Graph Data. _arXiv, 1809.11029._ [(Paper)](https://arxiv.org/abs/1809.11029)
 
 Awards
 =====

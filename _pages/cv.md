@@ -31,6 +31,9 @@ Experiences
 * Sep, 2014 – Present, Lab of Media and Network, Tsinghua University
   * Work on topics related to network embedding (a.k.a. network representation learning), especially focusing on developing scalable and efficient embedding algorithms for large-scale networks.
 
+* Jul, 2019 - Sep, 2019, Innovation Center, Weichai Power
+  * Investigate and literature survey how to apply machine learning in Weichai Power.
+  
 * Jul, 2018 - Oct, 2018, Intern at Data Application Team, WeChat Group (WXG), Tencent
   * Work on topics related to applying network embedding into analyzing WeChat data. 
   
