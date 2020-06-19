@@ -45,10 +45,11 @@ Preprints
 Professional Activities
 =====
 Conference Reviewer: CIKM 2019, NeurIPS 2020
+
 Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
 
 Experiences
------
+=====
 * Jul 2019 - Sep 2019, Intern, Innovation Center, Weichai Power
   * Investigate and literature survey how on to apply machine learning in Weichai Power.
   
