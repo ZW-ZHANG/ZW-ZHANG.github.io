@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is the homepage of ZIWEI ZHANG 张子威, a fourth-year Ph.D. candidate in the Department of Computer Science and Technology, Tsinghua University. 
-If you want to contact me, feel free to drop me an email.
+If you want to reach me, feel free to drop me an email.
 
 News
 =====
@@ -21,7 +21,7 @@ News
 
 Biography
 =====
-Ziwei Zhang received his B.S. from the Department of Physics, Tsinghua University in 2016. 
+Ziwei Zhang received his B.S. from the Department of Physics, Tsinghua University, in 2016. 
 He is currently pursuing a Ph.D. Degree in the Department of Computer Science and Technology at Tsinghua University. 
 His research interests focus on network embedding (a.k.a. network representation learning) and machine learning on graph data, especially developing scalable algorithms for large-scale networks. 
 He has published several papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
@@ -41,6 +41,19 @@ Preprints
 =====
 * **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _arXiv, 2006.04330._[(Paper)](http://arxiv.org/abs/2006.04330)
 * Ziwei Zhang. A Note on Spectral Clustering and SVD of Graph Data. _arXiv, 1809.11029._ [(Paper)](https://arxiv.org/abs/1809.11029)
+
+Professional Activities
+=====
+Conference Reviewer: CIKM 2019, NeurIPS 2020
+Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
+
+Experiences
+-----
+* Jul 2019 - Sep 2019, Intern, Innovation Center, Weichai Power
+  * Investigate and literature survey how on to apply machine learning in Weichai Power.
+  
+* Jul 2018 - Oct 2018, Intern, Data Application Team, WeChat Group (WXG), Tencent
+  * Work on topics related to applying network embedding into analyzing WeChat data. 
 
 Awards
 =====

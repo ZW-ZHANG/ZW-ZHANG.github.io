@@ -21,29 +21,29 @@ Education
 -----
 * **B.S. in Mathematics and Physics**, Department of Physics, Tsinghua University, Beijing, China, 2016
   * Thesis: Non-transitive Graph Embedding
-  * Advisor: Professor Wenwu Zhu and Professor Peng Cui
+  * Advisor: Professor [Wenwu Zhu](https://scholar.google.com/citations?user=7t2jzpgAAAAJ) and Professor [Peng Cui](http://cuip.thumedialab.com/)
   
 * **Ph. D in Computer Science and Technology**, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2021 (expected)
-  * Advisor: Professor Wenwu Zhu
+  * Advisor: Professor [Wenwu Zhu](https://scholar.google.com/citations?user=7t2jzpgAAAAJ)
   
 Experiences
 -----
-* Sep, 2014 – Present, Lab of Media and Network, Tsinghua University
+* Sep 2014 – Present Lab of Media and Network, Tsinghua University
   * Work on topics related to network embedding (a.k.a. network representation learning), especially focusing on developing scalable and efficient embedding algorithms for large-scale networks.
 
-* Jul, 2019 - Sep, 2019, Innovation Center, Weichai Power
-  * Investigate and literature survey how to apply machine learning in Weichai Power.
+* Jul 2019 - Sep 2019, Innovation Center, Weichai Power
+  * Investigate and literature survey how on to apply machine learning in Weichai Power.
   
-* Jul, 2018 - Oct, 2018, Intern at Data Application Team, WeChat Group (WXG), Tencent
+* Jul 2018 - Oct 2018, Intern at Data Application Team, WeChat Group (WXG), Tencent
   * Work on topics related to applying network embedding into analyzing WeChat data. 
   
-* Jan, 2016 - Feb, 2016, University of Sydney
+* Jan 2016 - Feb 2016, University of Sydney
   * Sustainable development, Young Leaders Programs(YLP)
   
-* Jul, 2015 - Aug, 2015, University of British Columbia (UBC)
+* Jul 2015 - Aug 2015, University of British Columbia (UBC)
   * Applied Science in Vancouver Summer Program (VSP)
   
-* Dec, 2013 - May, 2014, Cluster-Based Text Data Cleaning                            
+* Dec 2013 - May 2014, Cluster-Based Text Data Cleaning                            
   * Propose and implement a cluster-based algorithm to detect and correct false address data provided by DATUM DATA Co., LTD.
   
 Skills
@@ -70,4 +70,4 @@ Teaching
   {% endfor %}</ul>
 
   
-Last update: June 10th, 2020
+Last update: June 19th, 2020
