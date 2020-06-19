@@ -15,7 +15,7 @@ Lab of Media and Network, Department of Computer Science and Technology, Tsinghu
 
 _Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China_
 
-_Email: xxx at mails dot yyy dot edu dot cn, where xxx = zw-zhang16, yyy = tsinghua_
+_Email: XXX at mails dot YYY dot edu dot cn, where XXX = zw-zhang16, YYY = tsinghua_
 
 Education
 -----
