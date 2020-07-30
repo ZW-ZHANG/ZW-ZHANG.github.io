@@ -13,10 +13,9 @@ If you want to reach me, feel free to drop me an email.
 
 News
 =====
+* [Jul 2020] Our team ranked 6th in [AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020 AutoML track. The code is available [here](https://github.com/AutoGraphMaNlab/AutoGraph).
 * [Mar 2020] Our survey about [deep learning on graphs](https://arxiv.org/abs/1812.04202) has been accepted by TKDE!
 * [Apr 2019] Our paper on robust GCN against adversarial attacks is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) and see you in Alaska!
-* [Aug 2018] Our paper on billion-scale network embedding is accepted by ICDM! See more [here](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) and see you in Singapore!
-* [May 2018] Our paper on preserving arbitrary-order proximity in network embedding is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) and see you in London! 
 * [Jan 2018] Welcome to visit our lab's page on [Network Representation Learning](http://nrl.thumedialab.com/) for soucecode and datasets.
 
 Biography
