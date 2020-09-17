@@ -70,4 +70,4 @@ Teaching
   {% endfor %}</ul>
 
   
-Last update: June 19th, 2020
+Last update: Sep 17th, 2020

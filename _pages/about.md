@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of ZIWEI ZHANG 张子威, a fourth-year Ph.D. candidate in the Department of Computer Science and Technology, Tsinghua University. 
+This is the homepage of ZIWEI ZHANG 张子威, a fourth-year Ph.D. candidate in the Department of Computer Science and Technology, Tsinghua University, 
+working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700) and Prof. [Peng Cui](http://cuip.thumedialab.com/). 
 If you want to reach me, feel free to drop me an email.
 
 News
@@ -39,6 +40,7 @@ Publications
 Preprints
 =====
 * **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _arXiv, 2006.04330._[(Paper)](http://arxiv.org/abs/2006.04330)
+* **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
 * Ziwei Zhang. A Note on Spectral Clustering and SVD of Graph Data. _arXiv, 1809.11029._ [(Paper)](https://arxiv.org/abs/1809.11029)
 
 Professional Activities
