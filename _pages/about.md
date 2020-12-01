@@ -14,10 +14,10 @@ If you want to reach me, feel free to drop me an email.
 
 News
 =====
+* [Nov 2020] We have opensourced [AutoGL](https://github.com/THUMNLab/AutoGL/), a tool towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
 * [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf)
 * [Jul 2020] Our team ranked 6th in [AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020 AutoML track. [(Code)](https://github.com/THUMNLab/AutoGraph) [(Slides)](https://zw-zhang.github.io/files/2020_KDDCup_Autograph.pdf)
 * [Mar 2020] Our survey about [deep learning on graphs](https://arxiv.org/abs/1812.04202) has been accepted by TKDE!
-* [Apr 2019] Our paper on robust GCN against adversarial attacks is accepted by KDD! See more [here](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) and see you in Alaska!
 * [Jan 2018] Welcome to visit [our lab's github account](https://github.com/THUMNLab) for source codes.
 
 Biography
@@ -46,7 +46,7 @@ Preprints
 
 Professional Activities
 =====
-Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021, AAAI 2021, IJCAI 2021
+Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021, KDD 2021, AAAI 2021, IJCAI 2021
 
 Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
 
