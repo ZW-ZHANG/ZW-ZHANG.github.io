@@ -14,7 +14,7 @@ If you want to reach me, feel free to drop me an email.
 
 News
 =====
-* [Nov 2020] We have opensourced [AutoGL](https://github.com/THUMNLab/AutoGL/), a tool towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
+* [Nov 2020] We have opensourced [AutoGL](https://mn.cs.tsinghua.edu.cn/AutoGL/), a toolkit and platform towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
 * [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf)
 * [Jul 2020] Our team ranked 6th in [AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020 AutoML track. [(Code)](https://github.com/THUMNLab/AutoGraph) [(Slides)](https://zw-zhang.github.io/files/2020_KDDCup_Autograph.pdf)
 * [Mar 2020] Our survey about [deep learning on graphs](https://arxiv.org/abs/1812.04202) has been accepted by TKDE!
@@ -30,7 +30,8 @@ He has published several papers in prestigious conferences and journals, includi
 Publications
 =====
 * **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
-* Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
+* Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation
+with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) * Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
 * **Ziwei Zhang**, Peng Cui, Haoyang Li, Xiao Wang, Wenwu Zhu. Billion-scale Network Embedding with Iterative Random Projection. _ICDM, 2018. (Full Paper, Oral, acceptance rate 8.9%)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) [(Paper)](https://zw-zhang.github.io/files/2018_ICDM_RandNE.pdf)  [(Code)](https://github.com/ZW-ZHANG/RandNE) [(Slides)](https://zw-zhang.github.io/files/2018_ICDM_Slides.pdf)
 * **Ziwei Zhang**, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu. Arbitrary-Order Proximity Preserved Network Embedding. _KDD, 2018. (Full Paper, Oral, acceptance rate 10.8%)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) [(Paper)](https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf) [(Code)](https://github.com/ZW-ZHANG/AROPE) [(Slides)](https://zw-zhang.github.io/files/2018_KDD_Slides.pdf)
 * Xiao Wang\*, **Ziwei Zhang**\*, Jing Wang, Peng Cui, Shiqiang Yang. Power-law Distribution Aware Trust Prediction. _IJCAI, 2018. (Full Paper, Oral, acceptance rate 20.5%,\*: equal contribution)_ [(Page)](https://zw-zhang.github.io/publication/2018-07-Power-law-Distribution-Aware-Trust-Prediction) [(Paper)](https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf) [(Code)](https://github.com/ZW-ZHANG/Powerlaw_TP)
@@ -46,9 +47,9 @@ Preprints
 
 Professional Activities
 =====
-Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021, KDD 2021, AAAI 2021, IJCAI 2021
+Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021, KDD 2021, AAAI 2021, IJCAI 2021, ICML 2021
 
-Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
+Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
 
 Experiences
 =====
@@ -65,3 +66,9 @@ Awards
 * 2019    Student Travel Award: KDD
 * 2019    Best Oral Presentation, Tsinghua Ph.D. Students Forum
 * 2020    Outstanding TA awards
+* 2020    Qidong Scholarship
+
+Media Coverage
+=====
+* Dec 2020, AutoGL toolkit is reported by [Jiqizhixin](https://www.jiqizhixin.com/articles/2020-12-21-3) and [The Paper](https://www.thepaper.cn/newsDetail_forward_10506038) with more than 23 thousand reads in total
+* Dec 2018, Deep Learning on Graphs Survey is reported by multiple WeChat Official Accounts with more than 22 thousand reads in total
