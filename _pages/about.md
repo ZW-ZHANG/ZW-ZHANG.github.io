@@ -29,9 +29,10 @@ He has published several papers in prestigious conferences and journals, includi
 
 Publications
 =====
+* Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop_
 * **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
-* Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation
-with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) * Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
+* Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
+* Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
 * **Ziwei Zhang**, Peng Cui, Haoyang Li, Xiao Wang, Wenwu Zhu. Billion-scale Network Embedding with Iterative Random Projection. _ICDM, 2018. (Full Paper, Oral, acceptance rate 8.9%)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) [(Paper)](https://zw-zhang.github.io/files/2018_ICDM_RandNE.pdf)  [(Code)](https://github.com/ZW-ZHANG/RandNE) [(Slides)](https://zw-zhang.github.io/files/2018_ICDM_Slides.pdf)
 * **Ziwei Zhang**, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu. Arbitrary-Order Proximity Preserved Network Embedding. _KDD, 2018. (Full Paper, Oral, acceptance rate 10.8%)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) [(Paper)](https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf) [(Code)](https://github.com/ZW-ZHANG/AROPE) [(Slides)](https://zw-zhang.github.io/files/2018_KDD_Slides.pdf)
 * Xiao Wang\*, **Ziwei Zhang**\*, Jing Wang, Peng Cui, Shiqiang Yang. Power-law Distribution Aware Trust Prediction. _IJCAI, 2018. (Full Paper, Oral, acceptance rate 20.5%,\*: equal contribution)_ [(Page)](https://zw-zhang.github.io/publication/2018-07-Power-law-Distribution-Aware-Trust-Prediction) [(Paper)](https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf) [(Code)](https://github.com/ZW-ZHANG/Powerlaw_TP)
@@ -41,9 +42,10 @@ with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.gith
 
 Preprints
 =====
+* **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _arXiv, 2103.00742._[(Paper)](http://arxiv.org/abs/2103.00742)
 * **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _arXiv, 2006.04330._[(Paper)](http://arxiv.org/abs/2006.04330)
 * **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
-* Ziwei Zhang. A Note on Spectral Clustering and SVD of Graph Data. _arXiv, 1809.11029._ [(Paper)](https://arxiv.org/abs/1809.11029)
+* Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _arXiv, 2102.03787._[(Paper)](http://arxiv.org/abs/2102.03787)
 
 Professional Activities
 =====
