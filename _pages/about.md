@@ -14,10 +14,10 @@ If you want to reach me, feel free to drop me an email.
 
 News
 =====
+* [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361).
+* [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!
 * [Nov 2020] We have opensourced [AutoGL](https://mn.cs.tsinghua.edu.cn/AutoGL/), a toolkit and platform towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
 * [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf)
-* [Jul 2020] Our team ranked 6th in [AutoGraph](https://www.4paradigm.com/competition/kddcup2020), KDD Cup 2020 AutoML track. [(Code)](https://github.com/THUMNLab/AutoGraph) [(Slides)](https://zw-zhang.github.io/files/2020_KDDCup_Autograph.pdf)
-* [Mar 2020] Our survey about [deep learning on graphs](https://arxiv.org/abs/1812.04202) has been accepted by TKDE!
 * [Jan 2018] Welcome to visit [our lab's github account](https://github.com/THUMNLab) for source codes.
 
 Biography
@@ -29,7 +29,9 @@ He has published several papers in prestigious conferences and journals, includi
 
 Publications
 =====
-* Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop_
+* Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
+* **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021, survey track_[(Paper)](http://arxiv.org/abs/2103.00742)
+* Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn)
 * **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
 * Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
@@ -42,7 +44,6 @@ Publications
 
 Preprints
 =====
-* **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _arXiv, 2103.00742._[(Paper)](http://arxiv.org/abs/2103.00742)
 * **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _arXiv, 2006.04330._[(Paper)](http://arxiv.org/abs/2006.04330)
 * **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
 * Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _arXiv, 2102.03787._[(Paper)](http://arxiv.org/abs/2102.03787)
@@ -69,6 +70,7 @@ Awards
 * 2019    Best Oral Presentation, Tsinghua Ph.D. Students Forum
 * 2020    Outstanding TA awards
 * 2020    Qidong Scholarship
+* 2021    Baidu's Global Top 100 Chinese Rising Stars in AI
 
 Media Coverage
 =====
