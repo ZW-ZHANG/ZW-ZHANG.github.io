@@ -30,7 +30,7 @@ He has published several papers in prestigious conferences and journals, includi
 Publications
 =====
 * Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
-* **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021, survey track_[(Paper)](http://arxiv.org/abs/2103.00742)
+* **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track)_ [(Paper)](http://arxiv.org/abs/2103.00742)
 * Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn)
 * **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
