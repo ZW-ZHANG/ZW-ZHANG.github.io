@@ -24,7 +24,7 @@ Biography
 =====
 Ziwei Zhang received his Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2021. 
 He is currently a postdoc researcher in the Department of Computer Science and Technology at Tsinghua University. 
-His research interests focus on network embedding (a.k.a. network representation learning) and machine learning on graph data, especially developing scalable algorithms for large-scale networks. He has published several papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
+His research interests focus on machine learning on graphs, including graph neural network (GNN) and network embedding (a.k.a. network representation learning). He has published over a dozen papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
 
 Publications
 =====
@@ -70,6 +70,8 @@ Awards
 * 2020    Outstanding TA awards
 * 2020    Qidong Scholarship
 * 2021    Baidu's Global Top 100 Chinese Rising Stars in AI
+* 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department)
+* 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
 
 Media Coverage
 =====
