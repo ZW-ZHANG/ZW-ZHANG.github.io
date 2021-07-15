@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of ZIWEI ZHANG 张子威, a fifth-year Ph.D. candidate in the Department of Computer Science and Technology, Tsinghua University, 
+This is the homepage of ZIWEI ZHANG 张子威, a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
 working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700) and Prof. [Peng Cui](http://cuip.thumedialab.com/). 
 If you want to reach me, feel free to drop me an email.
 
@@ -22,10 +22,9 @@ News
 
 Biography
 =====
-Ziwei Zhang received his B.S. from the Department of Physics, Tsinghua University, in 2016. 
-He is currently pursuing a Ph.D. Degree in the Department of Computer Science and Technology at Tsinghua University. 
-His research interests focus on network embedding (a.k.a. network representation learning) and machine learning on graph data, especially developing scalable algorithms for large-scale networks. 
-He has published several papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
+Ziwei Zhang received his Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2021. 
+He is currently a postdoc researcher in the Department of Computer Science and Technology at Tsinghua University. 
+His research interests focus on network embedding (a.k.a. network representation learning) and machine learning on graph data, especially developing scalable algorithms for large-scale networks. He has published several papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
 
 Publications
 =====

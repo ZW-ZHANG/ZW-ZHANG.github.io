@@ -13,9 +13,9 @@ Contact
 -----
 Lab of Media and Network, Department of Computer Science and Technology, Tsinghua University
 
-_Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China_
+_Address: Room 9-314, East Main Building, Tsinghua University, Beijing 100084, P.R.China_
 
-_Email: XXX at YYY dot org dot cn, where XXX = zw-zhang16, YYY = tsinghua_
+_Email: XXX at YYY dot edu dot cn, where XXX = zwzhang, YYY = tsinghua_
 
 Education
 -----
@@ -23,7 +23,8 @@ Education
   * Thesis: Non-transitive Graph Embedding
   * Advisor: Professor [Wenwu Zhu](https://scholar.google.com/citations?user=7t2jzpgAAAAJ) and Professor [Peng Cui](http://cuip.thumedialab.com/)
   
-* **Ph. D in Computer Science and Technology**, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2021 (expected)
+* **Ph. D in Computer Science and Technology**, Department of Computer Science and Technology, Tsinghua University, Beijing, China, 2021
+  * Thesis: Structure-Preserving Network Representation Learning: Theories and Methods
   * Advisor: Professor [Wenwu Zhu](https://scholar.google.com/citations?user=7t2jzpgAAAAJ)
   
 Experiences
@@ -70,4 +71,4 @@ Teaching
   {% endfor %}</ul>
 
   
-Last update: Dec 1st, 2020
+Last update: July 15th, 2021
