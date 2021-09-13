@@ -14,7 +14,7 @@ If you want to reach me, feel free to drop me an email.
 
 News
 =====
-* [Sep 2021] Our paper Eigen-GNN is acctped by TKDE! 
+* [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
 * [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
 * [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361).
 * [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!
