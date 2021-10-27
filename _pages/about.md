@@ -14,6 +14,7 @@ If you want to reach me, feel free to drop me an email.
 
 News
 =====
+* [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
 * [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
 * [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361).
@@ -30,6 +31,7 @@ His research interests focus on machine learning on graphs, including graph neur
 
 Publications
 =====
+* Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf)
 * Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
 * **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track)_ [(Paper)](http://arxiv.org/abs/2103.00742)
