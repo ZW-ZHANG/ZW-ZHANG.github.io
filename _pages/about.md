@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 This is the homepage of ZIWEI ZHANG 张子威, a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
-working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700) and Prof. [Peng Cui](http://cuip.thumedialab.com/). 
-If you want to reach me, feel free to drop me an email.
+working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://cuip.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/). If you want to reach me, feel free to drop me an email.
 
 News
 =====
+* [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
 * [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
 * [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
 * [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361).
 * [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!
 * [Nov 2020] We have opensourced [AutoGL](https://mn.cs.tsinghua.edu.cn/AutoGL/), a toolkit and platform towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
-* [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf)
-* [Jan 2018] Welcome to visit [our lab's github account](https://github.com/THUMNLab) for source codes.
+#* [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf)
+#* [Jan 2018] Welcome to visit [our lab's github account](https://github.com/THUMNLab) for source codes.
 
 Biography
 =====
@@ -31,6 +31,7 @@ His research interests focus on machine learning on graphs, including graph neur
 
 Publications
 =====
+* Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022._[(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf)
 * Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
