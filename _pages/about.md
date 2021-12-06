@@ -17,11 +17,11 @@ News
 * [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
 * [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
-%* [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361).
-* [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!
+<!--* [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361)-->
+<!--* [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!-->
 * [Nov 2020] We have opensourced [AutoGL](https://mn.cs.tsinghua.edu.cn/AutoGL/), a toolkit and platform towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
-%* [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf)
-%* [Jan 2018] Welcome to visit [our lab's github account](https://github.com/THUMNLab) for source codes.
+<!--* [Oct 2020] I gave a tutorial on graph neural network (GNN) and network embedding in NLPCC 2020 together with Prof. Peng Cui. [(Slides)](https://zw-zhang.github.io/files/2020_10_NLPCC.pdf).-->
+<!--* [Jan 2018] Welcome to visit [our lab's github account](https://github.com/THUMNLab) for source codes.-->
 
 Biography
 =====
