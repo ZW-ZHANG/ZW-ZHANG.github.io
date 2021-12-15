@@ -27,7 +27,7 @@ Biography
 =====
 Ziwei Zhang received his Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2021. 
 He is currently a postdoc researcher in the Department of Computer Science and Technology at Tsinghua University. 
-His research interests focus on machine learning on graphs, including graph neural network (GNN) and network embedding (a.k.a. network representation learning). He has published over a dozen papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
+His research interests focus on machine learning on graphs, including graph neural network (GNN), network embedding (a.k.a. network representation learning), and automated graph learning. He has published over a dozen papers in prestigious conferences and journals, including KDD, AAAI, IJCAI, and TKDE.
 
 Publications
 =====
@@ -37,8 +37,7 @@ Publications
 * Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
 * **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track)_ [(Paper)](http://arxiv.org/abs/2103.00742)
 * Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn)
-* Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of
-Recommendation with Diversified Preference Network.  _IEEE Transactions on Big Data, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TBD_GraphDR.pdf)
+* Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _IEEE Transactions on Big Data, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TBD_GraphDR.pdf)
 * **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
 * Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
@@ -51,14 +50,15 @@ Recommendation with Diversified Preference Network.  _IEEE Transactions on Big D
 
 Preprints
 =====
+* Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _arXiv:2112.03806_ [(paper)](http://arxiv.org/abs/2112.03806)
 * **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
 
 
 Professional Activities
 =====
-Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021, KDD 2021, AAAI 2021, IJCAI 2021, ICML 2021
+Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021-2022, KDD 2021-2022, AAAI 2021-2022, IJCAI 2021-2022, ICML 2021, WWW 2022
 
-Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
+Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
 
 Experiences
 =====
@@ -74,10 +74,10 @@ Awards
 * 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department)
 * 2021    Baidu's Global Top 100 Chinese Rising Stars in AI
 * 2020    Outstanding TA awards
-* 2020    Qidong Scholarship
-* 2019    Student Travel Award: KDD
+<!--* 2020    Qidong Scholarship -->
+<!--* 2019    Student Travel Award: KDD-->
 * 2019    Best Oral Presentation, Tsinghua Ph.D. Students Forum
-* 2018    Student Travel Awards: AAAI, ICDM
+<!--* 2018    Student Travel Awards: AAAI, ICDM-->
 * 2018    National Scholarship
 
 Media Coverage
