@@ -16,7 +16,7 @@ News
 * [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
 * [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
-* [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
+* [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning)
 <!--* [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361)-->
 <!--* [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!-->
 * [Nov 2020] We have opensourced [AutoGL](https://mn.cs.tsinghua.edu.cn/AutoGL/), a toolkit and platform towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
@@ -34,17 +34,17 @@ Publications
 
 2022
 ======
-* [C10] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
+* [C10] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
 
 2021
 ======
-* [C9] Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
-* [C8] Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
-* [C7] **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track, <font color='red'> CCF-A </font>)_ [(Paper)](http://arxiv.org/abs/2103.00742)
-* [J5] **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf)
+* [C9] Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
+* [C8] Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf) [(Code)](https://github.com/haoxin1998/GS-GNN)
+* [C7] **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track, <font color='red'> CCF-A </font>)_ [(Paper)](http://arxiv.org/abs/2103.00742) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning)
+* [J5] **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) [(Code)](https://github.com/ZW-ZHANG/EigenGNN)
 * [J4] Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _IEEE Transactions on Big Data, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TBD_GraphDR.pdf)
-* [J3] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._(Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
-* [W1] Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn)
+* [J3] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021.(Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
+* [W1] Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) [(Link)](https://github.com/THUMNLab/AutoGL)
 
 Before 2020
 ======
@@ -54,7 +54,7 @@ Before 2020
 * [C3] Xiao Wang\*, **Ziwei Zhang**\*, Jing Wang, Peng Cui, Shiqiang Yang. Power-law Distribution Aware Trust Prediction. _IJCAI, 2018. (Full Paper, Oral, acceptance rate 20.5%,\*: equal contribution, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-07-Power-law-Distribution-Aware-Trust-Prediction) [(Paper)](https://zw-zhang.github.io/files/2018_IJCAI_Trust.pdf) [(Code)](https://github.com/ZW-ZHANG/Powerlaw_TP)
 * [C2] **Ziwei Zhang**, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu. TIMERS: Error-Bounded SVD Restart on Dynamic Networks. _AAAI, 2018. (Full Paper, Oral, acceptance rate 11%, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-02-TIMERS-Error-Bounded-SVD-Restart-on-Dynamic-Networks) [(Paper)](https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf) [(Code)](https://github.com/ZW-ZHANG/TIMERS) [(Slides)](https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf)
 * [C1] Mingdong Ou, Peng Cui, Jian Pei, **Ziwei Zhang**, Wenwu Zhu. Asymmetric Transitivity Preserving Graph Embedding. _KDD, 2016. (Full Paper, Oral, acceptance rate 8.9%, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2016-08-Asymmetric-Transitivity-Preserving-Graph-Embedding) [(Paper)](https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf) [(Code)](https://github.com/ZW-ZHANG/HOPE) [(Slides)](https://zw-zhang.github.io/files/2016_KDD_Slides.pdf)
-* [J2] **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ (Survey Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
+* [J2] **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020. (Survey Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) 
 * [J1] Dingyuan Zhu, Peng Cui, **Ziwei Zhang**, Jian Pei, Wenwu Zhu. High-order Proximity Preserved Embedding for Dynamic Networks. _TKDE, 2018. (SCI IF =3.9, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-04-High-order-Proximity-Preserved-Embedding-For-Dynamic-Networks) [(Paper)](https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf) [(Code)](https://github.com/ZW-ZHANG/DHPE)
 
 Preprints
