@@ -31,6 +31,7 @@ His research interests focus on machine learning on graphs, including graph neur
 
 Publications
 =====
+
 2022
 ======
 * [C10] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
@@ -38,16 +39,16 @@ Publications
 2021
 ======
 * [C9] Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
-* [J4] **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf)
+* [J5] **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021._ (Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf)
 * [C8] Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf)
 * [C7] **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track, <font color='red'> CCF-A </font>)_ [(Paper)](http://arxiv.org/abs/2103.00742)
 * [W1] Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn)
-* [J3] Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _IEEE Transactions on Big Data, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TBD_GraphDR.pdf)
+* [J4] Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _IEEE Transactions on Big Data, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TBD_GraphDR.pdf)
+* [J3] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._(Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
 
 Before 2020
 ======
 * [J2] **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ (Survey Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
-* Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021._(Full Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
 * [C6] Dingyuan Zhu, **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Robust Graph Convolutional Networks against Adversarial Attacks. _KDD, 2019. (Full Paper, Oral, acceptance rate 9.1%, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2019-08-Robust-Graph-Convolutional-Networks-Against-Adversarial-Attacks) [(Paper)](https://zw-zhang.github.io/files/2019_KDD_RGCN.pdf)  [(Code)](https://github.com/ZW-ZHANG/RobustGCN)
 * [C5] **Ziwei Zhang**, Peng Cui, Haoyang Li, Xiao Wang, Wenwu Zhu. Billion-scale Network Embedding with Iterative Random Projection. _ICDM, 2018. (Full Paper, Oral, acceptance rate 8.9%, <font color='red'> CCF-B </font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Billion-scale-Network-Embedding-with-Iterative-Random-Projection) [(Paper)](https://zw-zhang.github.io/files/2018_ICDM_RandNE.pdf)  [(Code)](https://github.com/ZW-ZHANG/RandNE) [(Slides)](https://zw-zhang.github.io/files/2018_ICDM_Slides.pdf)
 * [C4] **Ziwei Zhang**, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu. Arbitrary-Order Proximity Preserved Network Embedding. _KDD, 2018. (Full Paper, Oral, acceptance rate 10.8%, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-08-Arbitrary-Order-Proximity-Preserved-Network-Embedding) [(Paper)](https://zw-zhang.github.io/files/2018_KDD_AROPE.pdf) [(Code)](https://github.com/ZW-ZHANG/AROPE) [(Slides)](https://zw-zhang.github.io/files/2018_KDD_Slides.pdf)
