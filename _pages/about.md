@@ -57,12 +57,10 @@ Before 2020
 * [J2] **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020._ (Survey Paper, <font color='red'> CCF-A </font>) [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) [(Link)](https://arxiv.org/abs/1812.04202)
 * [J1] Dingyuan Zhu, Peng Cui, **Ziwei Zhang**, Jian Pei, Wenwu Zhu. High-order Proximity Preserved Embedding for Dynamic Networks. _TKDE, 2018. (SCI IF =3.9, <font color='red'> CCF-A </font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-04-High-order-Proximity-Preserved-Embedding-For-Dynamic-Networks) [(Paper)](https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf) [(Code)](https://github.com/ZW-ZHANG/DHPE)
 
-
 Preprints
 =====
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _arXiv:2112.03806_ [(paper)](http://arxiv.org/abs/2112.03806)
 * **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
-
 
 Professional Activities
 =====
