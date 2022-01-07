@@ -38,12 +38,12 @@ Publications
 
 2021
 ======
-* [C9] Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
-* [C8] Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf) [(Code)](https://github.com/haoxin1998/GS-GNN)
-* [C7] **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track, <font color='red'> CCF-A </font>)_ [(Paper)](http://arxiv.org/abs/2103.00742) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning)
+* [C9] Haoyang Li, Xin Wang, **Ziwei Zhang**, Zehuan Yuan, Hang Li, Wenwu Zhu. Disentangled Contrastive Learning on Graphs. _NeurIPS, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf) [(Slides)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL_Slides.pdf)
+* [C8] Haoxin Liu\*, **Ziwei Zhang**\*, Peng Cui, Yafeng Zhang, Qiang Cai, Jiashuo Liu, Wenwu Zhu. Signed Graph Neural Network with Latent Groups. _KDD, 2021. (Full Paper, acceptance rate 20.5%, \*: equal contribution, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_KDD_GSGNN.pdf) [(Code)](https://github.com/haoxin1998/GS-GNN) [(Slides)](https://zw-zhang.github.io/files/2021_KDD_GSGNN_Slides.pdf)
+* [C7] **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Automated Machine Learning on Graphs: A Survey. _IJCAI 2021. (Survey track, <font color='red'> CCF-A </font>)_ [(Paper)](http://arxiv.org/abs/2103.00742) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning) [(Slides)](https://zw-zhang.github.io/files/2021_IJCAI_AutoGL_Slides.pdf)
 * [J5] **Ziwei Zhang**, Peng Cui, Jian Pei, Xin Wang, Wenwu Zhu. Eigen-GNN: A Graph Structure Preserving Plug-in for GNNs. _TKDE, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) [(Code)](https://github.com/ZW-ZHANG/EigenGNN)
 * [J4] Ruobing Xie, Qi Liu, Shukai Liu, **Ziwei Zhang**, Peng Cui, Bo Zhang, Leyu Lin. Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network.  _IEEE Transactions on Big Data, 2021._[(Paper)](https://zw-zhang.github.io/files/2021_TBD_GraphDR.pdf)
-* [J3] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021.(Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) 
+* [J3] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _TKDE, 2021.(Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2021_TKDE_ISRec.pdf) [(Slides)](https://zw-zhang.github.io/files/2021_TKDE_ISRec_Slides.pdf)
 * [W1] Chaoyu Guan\*, **Ziwei Zhang**\*, Haoyang Li, Heng Chang, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu. AutoGL: A Library for Automated Graph Learning. _ICLR 2021 GTRL Workshop. (\*: equal contribution)_ [(Paper)](https://openreview.net/pdf?id=0yHwpLeInDn) [(Link)](https://github.com/THUMNLab/AutoGL)
 
 Before 2020
@@ -59,14 +59,18 @@ Before 2020
 
 Preprints
 =====
+* Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(paper)](https://arxiv.org/abs/2201.01288)
+* **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(paper)](http://arxiv.org/abs/2112.12345)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _arXiv:2112.03806_ [(paper)](http://arxiv.org/abs/2112.03806)
 * **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
 
+
+
 Professional Activities
 =====
-Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021-2022, KDD 2021-2022, AAAI 2021-2022, IJCAI 2021-2022, ICML 2021, WWW 2022
+Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021-2022, KDD 2021-2022, AAAI 2021-2022, IJCAI 2021-2022, ICML 2021-2022, WWW 2022
 
-Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), IEEE Trans. on Cybernetics (CYB), IEEE Trans. on Computational Social Systems (TCSS)
+Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), etc.
 
 Experiences
 =====
