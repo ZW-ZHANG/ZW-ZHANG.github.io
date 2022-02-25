@@ -13,6 +13,7 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
+* [Feb 2022] Our paper [Stochastic Message Passing](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf) is accepted by TKDE! 
 * [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
 * [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf)
 * [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
@@ -35,6 +36,8 @@ Publications
 2022
 ======
 * [C10] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
+* [J6] **Ziwei Zhang**, Chenhao Niu, Peng Cui, Pei Jian, Bo Zhang, Wenwu Zhu. Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing. _TKDE, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf)
+
 
 2021
 ======
@@ -59,10 +62,11 @@ Before 2020
 
 Preprints
 =====
+* Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _arXiv:2202.07987._ [(paper)](http://arxiv.org/abs/2202.07987)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(paper)](https://arxiv.org/abs/2201.01288)
 * **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(paper)](http://arxiv.org/abs/2112.12345)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _arXiv:2112.03806_ [(paper)](http://arxiv.org/abs/2112.03806)
-* **Ziwei Zhang**, Chenhao Niu, Peng Cui, Bo Zhang, Wei Cui, Wenwu Zhu. A Simple and General Graph Neural Network with Stochastic Message Passing. _arXiv:2009.02562_ [(paper)](http://arxiv.org/abs/2009.02562)
+
 
 
 
