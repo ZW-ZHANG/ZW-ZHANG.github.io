@@ -69,13 +69,13 @@ Preprints
 
 Talks
 =====
-Invited talk at University of Chinese Academy of Sciences, March 2022 
-Tutorial at SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021, August 2021 [Slides](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
-Invited talk at Cognitive Computing Lab (CCL), Baidu Research, July 2021
-Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020, Oct 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf)
-Guest Lecture at Introduction to Artificial Intelligence class of Nankai University, Dec 2019
-Invited talk at S-Lab, Beihang University, March 2019
-Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences, June 2018
+* Invited talk at University of Chinese Academy of Sciences, March 2022 
+* Tutorial at SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021, August 2021 [Slides](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
+* Invited talk at Cognitive Computing Lab (CCL), Baidu Research, July 2021
+* Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020, Oct 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf)
+* Guest Lecture at Introduction to Artificial Intelligence class of Nankai University, Dec 2019
+* Invited talk at S-Lab, Beihang University, March 2019
+* Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences, June 2018
 
 
 Professional Activities
