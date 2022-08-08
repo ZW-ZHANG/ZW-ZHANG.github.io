@@ -40,6 +40,7 @@ Publications
 * [C12] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under Distribution Shifts. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
 * [C11] <font color='red'> New! </font> Xuguang Duan, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Parametric Visual Program Induction with Function Modularization. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_VPI.pdf)
 * [C10] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
+* [J7] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf)
 * [J6] **Ziwei Zhang**, Chenhao Niu, Peng Cui, Pei Jian, Bo Zhang, Wenwu Zhu. Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing. _TKDE, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf)
 
 
@@ -70,7 +71,7 @@ Preprints
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _arXiv:2202.07987._ [(paper)](http://arxiv.org/abs/2202.07987)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(paper)](https://arxiv.org/abs/2201.01288)
 * **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(paper)](http://arxiv.org/abs/2112.12345)
-* Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _arXiv:2112.03806_ [(paper)](http://arxiv.org/abs/2112.03806)
+
 
 Talks
 =====
