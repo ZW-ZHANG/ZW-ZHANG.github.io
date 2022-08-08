@@ -13,6 +13,7 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
+* [July 2022] Our paper [OOD-GNN](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf) regarding out-of-distribution generalization of GNNs is accepted by TKDE! 
 * [May 2022] Three papers regarding graph neural architecture search and visual program induction are accepted by ICML 2022! 
 * [Feb 2022] Our paper [Stochastic Message Passing](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf) is accepted by TKDE! 
 * [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
@@ -100,14 +101,15 @@ Experiences
 
 Awards
 =====
+* 2022    China National Postdoctoral Program for Innovative Talents (only 9 for computer science in China, 2022)
 * 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
 * 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department)
 * 2021    Baidu's Global Top 100 Chinese Rising Stars in AI
-* 2020    Outstanding TA awards
+<!--* 2020    Outstanding TA awards -->
 <!--* 2020    Qidong Scholarship -->
-<!--* 2019    Student Travel Award: KDD-->
-* 2019    Best Oral Presentation, Tsinghua Ph.D. Students Forum
-<!--* 2018    Student Travel Awards: AAAI, ICDM-->
+<!--* 2019    Student Travel Award: KDD -->
+<!--* 2019    Best Oral Presentation, Tsinghua Ph.D. Students Forum -->
+<!--* 2018    Student Travel Awards: AAAI, ICDM -->
 * 2018    National Scholarship
 
 Media Coverage
