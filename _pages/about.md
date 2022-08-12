@@ -37,12 +37,13 @@ Publications
 
 2022
 ======
-* [C13] <font color='red'> New! </font> Chaoyu Guan, Xin Wang, Hong Chen, **Ziwei Zhang**, Wenwu Zhu. Large-Scale Graph Neural Architecture Search. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf)
-* [C12] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under Distribution Shifts. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
-* [C11] <font color='red'> New! </font> Xuguang Duan, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Parametric Visual Program Induction with Function Modularization. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_VPI.pdf)
-* [C10] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
-* [J7] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf)
-* [J6] **Ziwei Zhang**, Chenhao Niu, Peng Cui, Pei Jian, Bo Zhang, Wenwu Zhu. Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing. _TKDE, 2021. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf)
+* [C14] <font color='red'> New! </font> Chaoyu Guan, Xin Wang, Hong Chen, **Ziwei Zhang**, Wenwu Zhu. Large-Scale Graph Neural Architecture Search. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf)
+* [C13] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under Distribution Shifts. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
+* [C12] <font color='red'> New! </font> Xuguang Duan, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Parametric Visual Program Induction with Function Modularization. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_VPI.pdf)
+* [C11] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
+* [J8] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf)
+* [J7] **Ziwei Zhang**, Chenhao Niu, Peng Cui, Jian Pei, Bo Zhang, Wenwu Zhu. Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf)
+* [J6] Xumin Chen, Ruobing Xie, Zhejie Qiu, Peng Cui, **Ziwei Zhang**, Shukai Liu, Shiqiang Yang, Bo Zhang, Leyu Lin. Group-based Social Diffusion in Recommendation. _World Wide Web, 2022. (CCF-B)_
 
 
 2021
@@ -72,22 +73,24 @@ Preprints
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _arXiv:2202.07987._ [(paper)](http://arxiv.org/abs/2202.07987)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(paper)](https://arxiv.org/abs/2201.01288)
 * **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(paper)](http://arxiv.org/abs/2112.12345)
-
+* Yijian Qin, **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Wenwu Zhu. NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search. _arXiv.2206.09166._ [(paper)](http://arxiv.org/abs/2206.09166)
 
 Talks
 =====
-* Invited talk at University of Chinese Academy of Sciences, March 2022 
-* Tutorial at SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021, August 2021 [Slides](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
-* Invited talk at Cognitive Computing Lab (CCL), Baidu Research, July 2021
-* Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020, Oct 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf)
-* Guest Lecture at Introduction to Artificial Intelligence class of Nankai University, Dec 2019
-* Invited talk at S-Lab, Beihang University, March 2019
-* Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences, June 2018
+* [May 2022] Invited talk at Noah's Ark Lab, Huawei Technologies
+* [Apr 2022] Invited talk at Center for Data Science, Peking University
+* [Mar 2022] Invited talk at University of Chinese Academy of Sciences
+* [Aug 2021] Tutorial at SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021 [Slides](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
+* [Jul 2021] Invited talk at Cognitive Computing Lab (CCL), Baidu Research
+* [Oct 2020] Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf)
+* [Dec 2019] Guest Lecture at Introduction to Artificial Intelligence class of Nankai University
+* [Mar 2019] Invited talk at S-Lab, Beihang University
+* [Jun 2018] Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences
 
 
 Professional Activities
 =====
-Conference Reviewer: CIKM 2019, NeurIPS 2020, ICLR 2021-2022, KDD 2021-2022, AAAI 2021-2022, IJCAI 2021-2022, ICML 2021-2022, WWW 2022
+Conference Reviewer: CIKM 2019, NeurIPS 2020/2022, ICLR 2021-2023, KDD 2021-2022, AAAI 2021-2022, IJCAI 2021-2022, ICML 2021-2022, WWW 2022
 
 Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), etc.
 
