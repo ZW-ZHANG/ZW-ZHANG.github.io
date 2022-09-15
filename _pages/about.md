@@ -13,6 +13,7 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
+* [Sep 2022] Two papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph tasks and dynamic graphs, respectively. 
 * [Sep 2022] Our paper [IDGCL](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf) regarding self-supervised disentangled GNNs, which is an extension of our NeurIPS'21 paper [DGCL](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf), is accepted by TKDE! 
 * [July 2022] Our paper [OOD-GNN](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf) regarding out-of-distribution generalization of GNNs is accepted by TKDE! 
 * [May 2022] Three papers regarding graph neural architecture search and visual program induction are accepted by ICML 2022! 
@@ -38,6 +39,8 @@ Publications
 
 2022
 ======
+* [C16] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning Invariant Graph Representations Under Distribution Shifts. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://openreview.net/forum?id=acKK8MQe2xc)
+* [C15] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Zhou Qin, Wenwu Zhu. Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://openreview.net/forum?id=1tIUqrUuJxx)
 * [C14] <font color='red'> New! </font> Chaoyu Guan, Xin Wang, Hong Chen, **Ziwei Zhang**, Wenwu Zhu. Large-Scale Graph Neural Architecture Search. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf)
 * [C13] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under Distribution Shifts. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
 * [C12] <font color='red'> New! </font> Xuguang Duan, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Parametric Visual Program Induction with Function Modularization. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_VPI.pdf)
