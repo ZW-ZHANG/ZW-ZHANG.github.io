@@ -13,14 +13,14 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
-* [Sep 2022] Two papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph tasks and dynamic graphs, respectively. 
+* [Sep 2022] Three papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph-level tasks and dynamic graphs, and [NAS-Bench-Graph](https://openreview.net/forum?id=bBff294gqLp) is the first tabular NAS benchmark for graphs. 
 * [Sep 2022] Our paper [IDGCL](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf) regarding self-supervised disentangled GNNs, which is an extension of our NeurIPS'21 paper [DGCL](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf), is accepted by TKDE! 
 * [July 2022] Our paper [OOD-GNN](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf) regarding out-of-distribution generalization of GNNs is accepted by TKDE! 
 * [May 2022] Three papers regarding graph neural architecture search and visual program induction are accepted by ICML 2022! 
 * [Feb 2022] Our paper [Stochastic Message Passing](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf) is accepted by TKDE! 
-* [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
+<!--* [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf) -->
 <!--* [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf) -->
-* [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! 
+<!--* [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! -->
 * [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning)
 <!--* [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361)-->
 <!--* [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!-->
@@ -39,6 +39,7 @@ Publications
 
 2022
 ======
+* [C17] <font color='red'> New! </font> Yijian Qin, **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Wenwu Zhu. NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://openreview.net/forum?id=bBff294gqLp)
 * [C16] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning Invariant Graph Representations Under Distribution Shifts. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://openreview.net/forum?id=acKK8MQe2xc)
 * [C15] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Zhou Qin, Wenwu Zhu. Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://openreview.net/forum?id=1tIUqrUuJxx)
 * [C14] <font color='red'> New! </font> Chaoyu Guan, Xin Wang, Hong Chen, **Ziwei Zhang**, Wenwu Zhu. Large-Scale Graph Neural Architecture Search. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf)
@@ -79,7 +80,7 @@ Preprints
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _arXiv:2202.07987._ [(paper)](http://arxiv.org/abs/2202.07987)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(paper)](https://arxiv.org/abs/2201.01288)
 * **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(paper)](http://arxiv.org/abs/2112.12345)
-* Yijian Qin, **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Wenwu Zhu. NAS-Bench-Graph: Benchmarking Graph Neural Architecture Search. _arXiv.2206.09166._ [(paper)](http://arxiv.org/abs/2206.09166)
+
 
 Talks
 =====
