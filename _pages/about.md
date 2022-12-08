@@ -13,7 +13,8 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
-* [Oct 2022] I gave a talk about out-of-distribution (OOD) generalization on graphs at Learning on Graphs (LOGS). [Slides](https://zw-zhang.github.io/files/2022_GraphOOD_LOGS.pdf) 
+* [Nov 2022] One paper regarding heterogenous dynamic graph neural architecture search is accepted by AAAI 2023! 
+* [Nov 2022] I gave two talks about [out-of-distribution (OOD) generalization on graphs](https://zw-zhang.github.io/files/2022_GraphOOD_LOGS.pdf) and [Automated Machine Learning on Graphs](https://zw-zhang.github.io/files/2022_AutoGL_LOGS.pdf) at Learning on Graphs (LOGS).  
 * [Sep 2022] Three papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph-level tasks and dynamic graphs, and [NAS-Bench-Graph](https://openreview.net/forum?id=bBff294gqLp) is the first tabular NAS benchmark for graphs. 
 * [Sep 2022] Our paper [IDGCL](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf) regarding self-supervised disentangled GNNs, which is an extension of our NeurIPS'21 paper [DGCL](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf), is accepted by TKDE! 
 * [July 2022] Our paper [OOD-GNN](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf) regarding out-of-distribution generalization of GNNs is accepted by TKDE! 
@@ -37,6 +38,11 @@ His research interests focus on machine learning on graphs, including graph neur
 
 Publications
 =====
+
+2023
+======
+* [C18] <font color='red'> New! </font> Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'> CCF-A </font>)_ 
+
 
 2022
 ======
@@ -85,6 +91,7 @@ Preprints
 
 Talks
 =====
+* [Nov 2022] Invited talk at Learning on Graphs
 * [May 2022] Invited talk at Noah's Ark Lab, Huawei Technologies
 * [Apr 2022] Invited talk at Center for Data Science, Peking University
 * [Mar 2022] Invited talk at University of Chinese Academy of Sciences
