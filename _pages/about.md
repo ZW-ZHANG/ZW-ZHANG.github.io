@@ -13,13 +13,15 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
+* [Feb 2023] I am fortunated to be recognized as the [2023 AI 2000 Most Influential Scholar Honorable Mention](https://www.aminer.cn/ai2000) in Data Mining!
+* [Jan 2023] One paper regarding [automted graph transformer](https://openreview.net/forum?id=GcM7qfl5zY) is accepted by ICLR 2023 as an oral paper! 
 * [Nov 2022] One paper regarding heterogenous dynamic graph neural architecture search is accepted by AAAI 2023! 
 * [Nov 2022] I gave two talks about [out-of-distribution (OOD) generalization on graphs](https://zw-zhang.github.io/files/2022_GraphOOD_LOGS.pdf) and [Automated Machine Learning on Graphs](https://zw-zhang.github.io/files/2022_AutoGL_LOGS.pdf) at Learning on Graphs (LOGS).  
 * [Sep 2022] Three papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph-level tasks and dynamic graphs, and [NAS-Bench-Graph](https://openreview.net/forum?id=bBff294gqLp) is the first tabular NAS benchmark for graphs. 
 * [Sep 2022] Our paper [IDGCL](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf) regarding self-supervised disentangled GNNs, which is an extension of our NeurIPS'21 paper [DGCL](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf), is accepted by TKDE! 
 * [July 2022] Our paper [OOD-GNN](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf) regarding out-of-distribution generalization of GNNs is accepted by TKDE! 
 * [May 2022] Three papers regarding graph neural architecture search and visual program induction are accepted by ICML 2022! 
-* [Feb 2022] Our paper [Stochastic Message Passing](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf) is accepted by TKDE! 
+<!--* [Feb 2022] Our paper [Stochastic Message Passing](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf) is accepted by TKDE! -->
 <!--* [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf) -->
 <!--* [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf) -->
 <!--* [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! -->
@@ -41,6 +43,8 @@ Publications
 
 2023
 ======
+* [C20] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'> CCF-A </font>)_ 
+* [C19] <font color='red'> New! </font> Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _ICLR, 2023. (<font color='red'> Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY)
 * [C18] <font color='red'> New! </font> Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'> CCF-A </font>)_ 
 
 
@@ -50,12 +54,12 @@ Publications
 * [C16] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning Invariant Graph Representations Under Distribution Shifts. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_NeurIPS_GIL.pdf)
 * [C15] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Zhou Qin, Wenwu Zhu. Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift. _NeurIPS, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_NeurIPS_DIDA.pdf)
 * [C14] <font color='red'> New! </font> Chaoyu Guan, Xin Wang, Hong Chen, **Ziwei Zhang**, Wenwu Zhu. Large-Scale Graph Neural Architecture Search. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GAUSS.pdf)
-* [C13] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under Distribution Shifts. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
-* [C12] <font color='red'> New! </font> Xuguang Duan, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Parametric Visual Program Induction with Function Modularization. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_VPI.pdf)
+* [C13] Yijian Qin, Xin Wang, **Ziwei Zhang**, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under Distribution Shifts. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_GRACES.pdf)
+* [C12] Xuguang Duan, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Parametric Visual Program Induction with Function Modularization. _ICML, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_ICML_VPI.pdf)
 * [C11] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Learning to Solve Travelling Salesman Problem with Hardness-adaptive Curriculum. _AAAI, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf)
-* [J9] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Disentangled Graph Contrastive Learning with
+* [J9] Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Disentangled Graph Contrastive Learning with
 Independence Promotion. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf)
-* [J8] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf)
+* [J8] Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. OOD-GNN: Out-of-Distribution Generalized Graph Neural Network. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf)
 * [J7] **Ziwei Zhang**, Chenhao Niu, Peng Cui, Jian Pei, Bo Zhang, Wenwu Zhu. Permutation-equivariant and Proximity-aware Graph Neural Networks with Stochastic Message Passing. _TKDE, 2022. (Full Paper, <font color='red'> CCF-A </font>)_ [(paper)](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf)
 * [J6] Xumin Chen, Ruobing Xie, Zhejie Qiu, Peng Cui, **Ziwei Zhang**, Shukai Liu, Shiqiang Yang, Bo Zhang, Leyu Lin. Group-based Social Diffusion in Recommendation. _World Wide Web, 2022. (CCF-B)_
 
@@ -118,6 +122,7 @@ Experiences
 
 Awards
 =====
+* 2023    2023 AI 2000 Most Influential Scholar
 * 2022    China National Postdoctoral Program for Innovative Talents (only 9 for computer science in China, 2022)
 * 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
 * 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department)
