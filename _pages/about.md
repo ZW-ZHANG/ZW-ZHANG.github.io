@@ -16,7 +16,7 @@ News
 * [Feb 2023] I am fortunated to be recognized as the [2023 AI 2000 Most Influential Scholar](https://www.aminer.cn/ai2000) Honorable Mention in Data Mining!
 * [Feb 2023] One paper regarding [robust graph NAS](https://openreview.net/forum?id=Qxxbn_oiQv) is accepted by CVPR 2023! 
 * [Feb 2023] One paper regarding [automted graph transformer](https://openreview.net/forum?id=GcM7qfl5zY) is accepted by ICLR 2023 as an oral paper! 
-* [Nov 2022] One paper regarding heterogenous dynamic graph neural architecture search is accepted by AAAI 2023! 
+* [Nov 2022] One paper regarding [heterogenous dynamic graph neural architecture search](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) is accepted by AAAI 2023! 
 * [Nov 2022] I gave two talks about [out-of-distribution (OOD) generalization on graphs](https://zw-zhang.github.io/files/2022_GraphOOD_LOGS.pdf) and [Automated Machine Learning on Graphs](https://zw-zhang.github.io/files/2022_AutoGL_LOGS.pdf) at Learning on Graphs (LOGS).  
 * [Sep 2022] Three papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph-level tasks and dynamic graphs, and [NAS-Bench-Graph](https://openreview.net/forum?id=bBff294gqLp) is the first tabular NAS benchmark for graphs. 
 <!--* [Sep 2022] Our paper [IDGCL](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf) regarding self-supervised disentangled GNNs, which is an extension of our NeurIPS'21 paper [DGCL](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf), is accepted by TKDE! -->
@@ -125,6 +125,7 @@ Experiences
 Awards
 =====
 * 2023    AI 2000 Most Influential Scholar
+* 2022    CAAI Outstanding Ph.D. Thesis Honorable Mention (吴文俊人工智能优秀博士论文提名)
 * 2022    China National Postdoctoral Program for Innovative Talents (only 9 for computer science in China, 2022)
 * 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
 * 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department)
