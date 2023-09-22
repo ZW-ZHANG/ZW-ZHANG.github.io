@@ -13,21 +13,23 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 News
 =====
+* [Sep 2023] Four papers are accepted by NeurIPS! [SILD](https://openreview.net/forum?id=RRUVZygUtr) and [EA-DGNN](https://openreview.net/forum?id=n8JWIzYPRz) explore spectral and environment persepective of dynamic graph OOD generalization, while [MTGC3](https://openreview.net/forum?id=TOxpAwp0VE) and [DSGAS](https://openreview.net/forum?id=UAFa5ZhR85) study multi-task and unsupervised graph NAS!
 * [Aug 2023] We wrote a perspective paper about **Large Graph Model**! See more [here](https://arxiv.org/pdf/2308.14522) and [paper collection](https://github.com/THUMNLab/awesome-large-graph-model) 
+* [Jul 2023] I gave a talk about [Automated Graph Machine Learning](https://zw-zhang.github.io/files/2023_DataFun_AutoGraph.pdf) at DataFun.
 * [Feb 2023] I am fortunated to be recognized as the [2023 AI 2000 Most Influential Scholar](https://www.aminer.cn/ai2000) Honorable Mention in Data Mining!
 * [Feb 2023] One paper regarding [robust graph NAS](https://openreview.net/forum?id=Qxxbn_oiQv) is accepted by CVPR 2023! 
 * [Feb 2023] One paper regarding [automted graph transformer](https://openreview.net/forum?id=GcM7qfl5zY) is accepted by ICLR 2023 as an oral paper! 
 * [Nov 2022] One paper regarding heterogenous dynamic graph neural architecture search is accepted by AAAI 2023! 
 * [Nov 2022] I gave two talks about [out-of-distribution (OOD) generalization on graphs](https://zw-zhang.github.io/files/2022_GraphOOD_LOGS.pdf) and [Automated Machine Learning on Graphs](https://zw-zhang.github.io/files/2022_AutoGL_LOGS.pdf) at Learning on Graphs (LOGS).  
-* [Sep 2022] Three papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph-level tasks and dynamic graphs, and [NAS-Bench-Graph](https://openreview.net/forum?id=bBff294gqLp) is the first tabular NAS benchmark for graphs. 
+<!--* [Sep 2022] Three papers are accepted by NeurIPS 2022! [GIL](https://openreview.net/forum?id=acKK8MQe2xc) and [DIDA](https://openreview.net/forum?id=1tIUqrUuJxx) tackles the out-of-distribution (OOD) generalization of GNNs for graph-level tasks and dynamic graphs, and [NAS-Bench-Graph](https://openreview.net/forum?id=bBff294gqLp) is the first tabular NAS benchmark for graphs. -->
 <!--* [Sep 2022] Our paper [IDGCL](https://zw-zhang.github.io/files/2022_TKDE_IDGCL.pdf) regarding self-supervised disentangled GNNs, which is an extension of our NeurIPS'21 paper [DGCL](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf), is accepted by TKDE! -->
 <!--* [July 2022] Our paper [OOD-GNN](https://zw-zhang.github.io/files/2022_TKDE_OOD-GNN.pdf) regarding out-of-distribution generalization of GNNs is accepted by TKDE! -->
-* [May 2022] Three papers regarding graph neural architecture search and visual program induction are accepted by ICML 2022! 
+<!--** [May 2022] Three papers regarding graph neural architecture search and visual program induction are accepted by ICML 2022! -->
 <!--* [Feb 2022] Our paper [Stochastic Message Passing](https://zw-zhang.github.io/files/2022_TKDE_SMP.pdf) is accepted by TKDE! -->
 <!--* [Dec 2021] One paper is accepted by AAAI 2022! [(Paper)](https://zw-zhang.github.io/files/2022_AAAI_HACL.pdf) -->
 <!--* [Oct 2021] One paper is accepted by NeurIPS 2021! [(Paper)](https://zw-zhang.github.io/files/2021_NeurIPS_DGCL.pdf) -->
 <!--* [Sep 2021] Our paper [Eigen-GNN](https://zw-zhang.github.io/files/2021_TKDE_EigenGNN.pdf) is accepted by TKDE! -->
-* [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning)
+<!--* [Aug 2021] I gave a tutorial on automated machine learning on grapha in KDD 2021 together with Prof. Xin Wang and Prof. Wenwu Zhu. [(Slides)](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-auto-graph-learning) -->
 <!--* [May 2021] I am fortunated to be selected by [Baidu's 2021 Global Top 100 Chinese Rising Stars in AI](https://xueshu.baidu.com/usercenter/index/detail?tab_id=4&id=361)-->
 <!--* [Apr 2021] Our survey on [automated machine learning on graphs](http://arxiv.org/abs/2103.00742) has been accepted by IJCAI 2021!-->
 * [Nov 2020] We have opensourced [AutoGL](https://mn.cs.tsinghua.edu.cn/AutoGL/), a toolkit and platform towards automatic machine learning on graphs. Feel free to have a try and give us feedbacks!
@@ -45,10 +47,14 @@ Publications
 
 2023
 ======
+* [C25] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Zhou Qin, Weigao Wen, Hui Xue', Haoyang Li, Wenwu Zhu. Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=RRUVZygUtr)
+* [C24] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Guangyao Shen, Shiqi Shen, Wenwu Zhu. Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85)
+* [C23] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Hong Chen, Wenwu Zhu. Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE)
+* [C22] <font color='red'> New! </font> Haonan Yuan, Qingyun Sun, Xingcheng Fu, **Ziwei Zhang**, Cheng Ji, Hao Peng, Jianxin Li. Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=n8JWIzYPRz)
 * [C21] <font color='red'> New! </font> Beini Xie, Heng Chang, **Ziwei Zhang**, Xin Wang, Daixin Wang, Zhiqiang Zhang, Zhitao Ying, Wenwu Zhu. Adversarially Robust Neural Architecture Search for Graph Neural Networks. _CVPR, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=Qxxbn_oiQv)
-* [C20] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'>CCF-A</font>)_ 
-* [C19] <font color='red'> New! </font> Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _ICLR, 2023. (<font color='red'>Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY)
-* [C18] <font color='red'> New! </font> Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
+* [C20] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'>CCF-A</font>)_ 
+* [C19] Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _ICLR, 2023. (<font color='red'>Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY)
+* [C18] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
 * [J11] <font color='red'> New! </font> 张子威，王鑫，朱文武。图神经架构搜索综述. _计算机学报，2023. (综述文章, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf)
 * [J10] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Invariant Node Representation Learning under Distribution Shifts with Multiple Latent Environments. _TOIS, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_CJC_GraphNAS.pdf)
 
@@ -119,18 +125,12 @@ Conference Reviewer: NeurIPS 2020-2023, ICLR 2021-2024, KDD 2021-2023, ICML 2021
 
 Journal Reviewer: IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), etc.
 
-Experiences
-=====
-* Jul 2019 - Sep 2019, Intern, Innovation Center, Weichai Power
-  * Investigate and literature survey how on to apply machine learning in Weichai Power.
-  
-* Jul 2018 - Oct 2018, Intern, Data Application Team, WeChat Group (WXG), Tencent
-  * Work on topics related to applying network embedding into analyzing WeChat data. 
-
 Awards
 =====
-* 2023    AI 2000 Most Influential Scholar
-* 2022    China National Postdoctoral Program for Innovative Talents (only 9 for computer science in China, 2022)
+* 2022    The first prize award of natural science research of Ministry of Education (教育部自然科学一等奖)
+* 2022    AI 2000 Most Influential Scholar
+* 2022    Outstanding Doctoral Dissertation Honorable Mention of CAAI (吴文俊人工智能优秀博士学位论文提名)
+* 2022    China National Postdoctoral Program for Innovative Talents (博士后创新人才支持计划)
 * 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
 * 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department)
 * 2021    Baidu's Global Top 100 Chinese Rising Stars in AI
