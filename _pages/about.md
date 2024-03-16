@@ -105,7 +105,7 @@ Before 2020
 
 Preprints
 =====
-* Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu<sup>#</sup>,  Ziwei Zhang<sup>#</sup>, Cheng Chang<sup>#</sup> (<sup>#</sup>: co-corresponding authors)
+* Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu<sup>#</sup>, Ziwei Zhang<sup>#</sup>, Cheng Chang<sup>#</sup>. Decoding cell identity with multi-scale explainable deep learning. _bioarXiv 2024.02.05.578922 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
 * Yijian Qin, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs. _arXiv 2310.18152_ [(Paper)](http://arxiv.org/abs/2310.18152)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Yijian Qin, Simin Wu, Wenwu Zhu. LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? _arXiv 2310.17110_ [(Paper)](http://arxiv.org/abs/2310.17110)
