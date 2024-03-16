@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Ziwei Zhang"
 title_separator          : "-"
 name                     : &name "Ziwei Zhang 张子威"
-description              : &description "Postdoc Researcher in Department of Computer Science and Technology, Tsinghua University, China"
+description              : &description "Associate professor in the School of Computer Science and Engineering, Beihang University"
 url                      : https://zw-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZW-ZHANG/zw-zhang.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ziwei Zhang"
   avatar           : "profile-photo.jpg"
-  bio              : "Postdoc researcher in the Department of Computer Science and Technology, Tsinghua University"
+  bio              : "Associate professor in the School of Computer Science and Engineering, Beihang University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AnrzkUUAAAAJ"
-  email            : "XXX at YYY dot edu dot cn, where XXX = zwzhang, YYY = tsinghua"
+  email            : "XXX at YYY dot edu dot cn, where XXX = zwzhang, YYY = buaa"
   uri              :
   bitbucket        :
   codepen          :

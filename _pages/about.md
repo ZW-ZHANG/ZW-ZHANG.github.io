@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of ZIWEI ZHANG 张子威, a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
-working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://pengcui.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/). If you want to reach me, feel free to drop me an email.
+This is the homepage of ZIWEI ZHANG 张子威, an associate professor in the School of Computer Science and Engineering, Beihang University. Prior to that, I was a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
+working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://pengcui.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/). 
 
 News
 =====
@@ -39,9 +39,7 @@ News
 
 Biography
 =====
-Ziwei Zhang received his Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2021. 
-He is currently a postdoc researcher in the Department of Computer Science and Technology at Tsinghua University. 
-His research interests focus on machine learning on graphs, including graph neural network (GNN), network embedding (a.k.a. network representation learning), and automated graph learning. He has published over 40 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, AAAI, IJCAI, and TKDE.
+Ziwei Zhang is currently an associate professor at Beihang University. He received his Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2021. His current research interests focus on graph machine learning, including graph neural network (GNN), graph out-of-distribution generalization, and automated graph learning. He is also interested in exploring graph foundation models and applying graph machine learning into AI4Science, particularly bioinformatics. He has published over 40 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, AAAI, IJCAI, and TKDE.
 
 Publications
 =====
@@ -132,7 +130,7 @@ Talks
 
 Professional Activities
 =====
-Conference Reviewer: NeurIPS 2020-2023, ICLR 2021-2024, KDD 2021-2024, ICML 2021-2024, AAAI 2021-2024, IJCAI 2021-2023, WWW 2022-2024, WSDM 2023-2024, LoG 2022-2023, CIKM 2019
+Conference Reviewer: NeurIPS 2020-2023, ICLR 2021-2024, KDD 2021-2024, ICML 2021-2024, AAAI 2021-2024, IJCAI 2021-2024, WWW 2022-2024, WSDM 2023-2024, LoG 2022-2023, CIKM 2019
 
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), etc.
 
