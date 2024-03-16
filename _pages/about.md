@@ -61,7 +61,7 @@ Publications
 * [C20] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'>CCF-A</font>)_ 
 * [C19] Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _ICLR, 2023. (<font color='red'>Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY) [(Code)](https://github.com/THUMNLab/AutoGL-light)
 * [C18] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'>CCF-A</font>)_  [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
-* [J13] Yang Liao, Jing Zhao, Jiyong Bian, Ziwei Zhang, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, 2023._
+* [J13] Yang Liao, Jing Zhao, Jiyong Bian, **Ziwei Zhang**, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, 2023._
 * [J12] Fang Shen, Jialong Wang, **Ziwei Zhang**, Xin Wang, Yue Li, Zhaowei Geng, Bing Pan, Zengyi Lu, Wendy Zhao, Wenwu Zhu. Long-term Multivariate Time Series Forecasting in Data Centers Based on Multi-factor Separation Evolutionary Spatial-Temporal Graph Neural Networks. _KBS, 2023._
 * [J11] <font color='red'> New! </font> 张子威，王鑫，朱文武。图神经架构搜索综述. _计算机学报，2023. (综述文章, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_CJC_GraphNAS.pdf)
 * [J10] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Invariant Node Representation Learning under Distribution Shifts with Multiple Latent Environments. _TOIS, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://dl.acm.org/doi/10.1145/3604427)
@@ -105,6 +105,7 @@ Before 2020
 
 Preprints
 =====
+* Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu<sup>#</sup>,  Ziwei Zhang<sup>#</sup>, Cheng Chang<sup>#</sup> (<sup>#</sup>: co-corresponding authors)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
 * Yijian Qin, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs. _arXiv 2310.18152_ [(Paper)](http://arxiv.org/abs/2310.18152)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Yijian Qin, Simin Wu, Wenwu Zhu. LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? _arXiv 2310.17110_ [(Paper)](http://arxiv.org/abs/2310.17110)
