@@ -46,14 +46,15 @@ Publications
 
 2024
 ======
-* [C27]	<font color='red'> New! </font> Jie Cai, Xin Wang, Haoyang Li, **Ziwei Zhang**, Wenwu Zhu. Multimodal Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>) [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_OMGNAS.pdf) 
+* [C28] Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Customized Cross-device Neural Architecture Search with Images. _ICME, 2024. (Full Paper, CCF-B) 
+* [C27]	<font color='red'> New! </font> Jie Cai, Xin Wang, Haoyang Li, **Ziwei Zhang**, Wenwu Zhu. Multimodal Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_OMGNAS.pdf) 
 * [C26]	<font color='red'> New! </font> Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Data-augmented Curriculum Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_DCGAS.pdf) 
 
 
 2023
 ======
 * [W2] <font color='red'> New! </font> **Ziwei Zhang**, Haoyang Li, Zeyang Zhang, Yijian Qin, Xin Wang, Wenwu Zhu. Graph Meets LLMs: Towards Large Graph Models. _NeurIPS GLFrontiers workshop, 2023_ [(Paper)](https://arxiv.org/pdf/2308.14522.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-large-graph-model)
-* [C25] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Zhou Qin, Weigao Wen, Hui Xue', Haoyang Li, Wenwu Zhu. Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=RRUVZygUtr) [(Code)](https://github.com/wondergo2017/sild)
+* [C25] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Zhou Qin, Weigao Wen, Hui Xue, Haoyang Li, Wenwu Zhu. Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=RRUVZygUtr) [(Code)](https://github.com/wondergo2017/sild)
 * [C24] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Guangyao Shen, Shiqi Shen, Wenwu Zhu. Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85) [(Code)](https://github.com/wondergo2017/dsgas)
 * [C23] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Hong Chen, Wenwu Zhu. Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE) [(Code)](https://github.com/THUMNLab/AutoGL-light)
 * [C22] <font color='red'> New! </font> Haonan Yuan, Qingyun Sun, Xingcheng Fu, **Ziwei Zhang**, Cheng Ji, Hao Peng, Jianxin Li. Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization. _NeurIPS, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=n8JWIzYPRz) [(Code)](https://github.com/haonan-yuan/EAGLE)
