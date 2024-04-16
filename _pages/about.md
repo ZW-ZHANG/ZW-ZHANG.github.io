@@ -11,6 +11,8 @@ redirect_from:
 This is the homepage of ZIWEI ZHANG 张子威, an associate professor in the School of Computer Science and Engineering, Beihang University. Prior to that, I was a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
 working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://pengcui.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/). 
 
+I am looking for self-motivated undergraduate interns with solid mathematical backgrounds and coding skills. Feel free to drop me an email with CV if interested.
+
 News
 =====
 * [Dec 2023] Two papers about out-of-distribution graph neural architecture search are accepted by AAAI 2024!
@@ -46,7 +48,7 @@ Publications
 
 2024
 ======
-* [C28] Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Customized Cross-device Neural Architecture Search with Images. _ICME, 2024. (Full Paper, CCF-B) 
+* [C28] Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Customized Cross-device Neural Architecture Search with Images. _ICME, 2024. (Full Paper, CCF-B)_ 
 * [C27]	<font color='red'> New! </font> Jie Cai, Xin Wang, Haoyang Li, **Ziwei Zhang**, Wenwu Zhu. Multimodal Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_OMGNAS.pdf) 
 * [C26]	<font color='red'> New! </font> Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Data-augmented Curriculum Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_DCGAS.pdf) 
 
@@ -102,7 +104,7 @@ Before 2020
 * [C2] **Ziwei Zhang**, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu. TIMERS: Error-Bounded SVD Restart on Dynamic Networks. _AAAI, 2018. (Full Paper, Oral, acceptance rate 11%, <font color='red'>CCF-A</font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-02-TIMERS-Error-Bounded-SVD-Restart-on-Dynamic-Networks) [(Paper)](https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf) [(Code)](https://github.com/ZW-ZHANG/TIMERS) [(Slides)](https://zw-zhang.github.io/files/2018_AAAI_TIMERS.pdf)
 * [C1] Mingdong Ou, Peng Cui, Jian Pei, **Ziwei Zhang**, Wenwu Zhu. Asymmetric Transitivity Preserving Graph Embedding. _KDD, 2016. (Full Paper, Oral, acceptance rate 8.9%, <font color='red'>CCF-A</font>)_ [(Page)](https://zw-zhang.github.io/publication/2016-08-Asymmetric-Transitivity-Preserving-Graph-Embedding) [(Paper)](https://zw-zhang.github.io/files/2016_KDD_HOPE.pdf) [(Code)](https://github.com/ZW-ZHANG/HOPE) [(Slides)](https://zw-zhang.github.io/files/2016_KDD_Slides.pdf)
 * [J2] **Ziwei Zhang**, Peng Cui, Wenwu Zhu. Deep Learning on Graphs: A Survey. _TKDE, 2020. (Survey Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2020_TKDE_Survey.pdf) 
-* [J1] Dingyuan Zhu, Peng Cui, **Ziwei Zhang**, Jian Pei, Wenwu Zhu. High-order Proximity Preserved Embedding for Dynamic Networks. _TKDE, 2018. (SCI IF =3.9, <font color='red'>CCF-A</font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-04-High-order-Proximity-Preserved-Embedding-For-Dynamic-Networks) [(Paper)](https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf) [(Code)](https://github.com/ZW-ZHANG/DHPE)
+* [J1] Dingyuan Zhu, Peng Cui, **Ziwei Zhang**, Jian Pei, Wenwu Zhu. High-order Proximity Preserved Embedding for Dynamic Networks. _TKDE, 2018. (<font color='red'>CCF-A</font>)_ [(Page)](https://zw-zhang.github.io/publication/2018-04-High-order-Proximity-Preserved-Embedding-For-Dynamic-Networks) [(Paper)](https://zw-zhang.github.io/files/2018_TKDE_DHPE.pdf) [(Code)](https://github.com/ZW-ZHANG/DHPE)
 
 Preprints
 =====
@@ -128,7 +130,7 @@ Talks
 * [Jul 2021] Invited talk at Cognitive Computing Lab (CCL), Baidu Research
 * [Oct 2020] Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf)
 * [Dec 2019] Guest Lecture at Introduction to Artificial Intelligence class of Nankai University
-* [Mar 2019] Invited talk at S-Lab, Beihang University
+* [Mar 2019] Invited talk at CoLab, Beihang University
 * [Jun 2018] Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences
 
 Professional Activities
@@ -157,3 +159,15 @@ Media Coverage
 =====
 * Dec 2020, AutoGL toolkit is reported by [Jiqizhixin](https://www.jiqizhixin.com/articles/2020-12-21-3) and [The Paper](https://www.thepaper.cn/newsDetail_forward_10506038) with more than 23 thousand reads in total
 * Dec 2018, Deep Learning on Graphs Survey is reported by multiple WeChat Official Accounts with more than 22 thousand reads in total
+
+Supervision
+=====
+I am fortunate to have collaborated with the following students in Tsinghua University (incomplete): 
+* Z. Zhang (2025, Ph.D.)
+* Y. Qin (2024, Ph.D.) <!-- $\rightarrow$ researcher at ) -->
+* H. Li (2023, Ph.D. $\rightarrow$ Postdoc at Weill Cornell Medicine)  
+* J. Cai (2023, master) <!-- Ph.D. at )-->
+* B. Xie (2023, master) <!-- researcher at) -->
+* C. Guan (2022, master $\rightarrow$ founder of Qingmao Intelligence)
+* H. Liu (2021, master $\rightarrow$ Ph.D. at Gatech)
+* C. Niu (2020, undergraduate $\rightarrow$ master at CMU)
