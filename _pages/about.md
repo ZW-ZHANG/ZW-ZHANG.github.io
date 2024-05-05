@@ -13,13 +13,16 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 I am looking for self-motivated undergraduate interns with solid mathematical backgrounds and coding skills. Feel free to drop me an email with CV if interested.
 
+<font color='red'> 目前仍有一个2025级入学的硕士名额，感兴趣请与我联系。 </font>
+
 News
 =====
+* [May 2024] Two papers about graph out-of-distribution generalization and continual graph neural architecture search are accepted by ICML 2024!
 * [Dec 2023] Two papers about out-of-distribution graph neural architecture search are accepted by AAAI 2024!
 * [Oct 2023] We wrote a perspective paper about **Large Graph Model**, which is accepted by NeurIPS GLFrontiers workshop! See more [here](https://arxiv.org/pdf/2308.14522) and [paper collection](https://github.com/THUMNLab/awesome-large-graph-model) 
 * [Sep 2023] Four papers are accepted by NeurIPS! [SILD](https://openreview.net/forum?id=RRUVZygUtr) and [EA-DGNN](https://openreview.net/forum?id=n8JWIzYPRz) explore spectral and environment persepective of dynamic graph OOD generalization, while [MTGC3](https://openreview.net/forum?id=TOxpAwp0VE) and [DSGAS](https://openreview.net/forum?id=UAFa5ZhR85) study multi-task and unsupervised graph NAS!
 * [Jul 2023] I gave a talk about [Automated Graph Machine Learning](https://zw-zhang.github.io/files/2023_DataFun_AutoGraph.pdf) at DataFun.
-* [Feb 2023] I am fortunated to be recognized as the [2023 AI 2000 Most Influential Scholar](https://www.aminer.cn/ai2000) Honorable Mention in Data Mining!
+<!--* [Feb 2023] I am fortunated to be recognized as the [2023 AI 2000 Most Influential Scholar](https://www.aminer.cn/ai2000) Honorable Mention in Data Mining!-->
 <!--* [Feb 2023] One paper regarding [robust graph NAS](https://arxiv.org/pdf/2304.04168) is accepted by CVPR 2023! -->
 <!--* [Feb 2023] One paper regarding [automted graph transformer](https://openreview.net/forum?id=GcM7qfl5zY) is accepted by ICLR 2023 as an oral paper! -->
 <!--* [Nov 2022] One paper regarding heterogenous dynamic graph neural architecture search is accepted by AAAI 2023!. -->
@@ -48,6 +51,8 @@ Publications
 
 2024
 ======
+* [C30] <font color='red'> New! </font>Haoyang Li, Xin Wang, Zeyang Zhang, Haibo Chen, **Ziwei Zhang**, Wenwu Zhu. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=OS0szhkPmF) 
+* [C29] <font color='red'> New! </font>Zeyang Zhang, Xin Wang, Yijian Qin, Hong Chen, **Ziwei Zhang**, Xu Chu, Wenwu Zhu.  _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=Hg7C5YYifi) 
 * [C28] Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Customized Cross-device Neural Architecture Search with Images. _ICME, 2024. (Full Paper, CCF-B)_ 
 * [C27]	<font color='red'> New! </font> Jie Cai, Xin Wang, Haoyang Li, **Ziwei Zhang**, Wenwu Zhu. Multimodal Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_OMGNAS.pdf) 
 * [C26]	<font color='red'> New! </font> Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Data-augmented Curriculum Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_DCGAS.pdf) 
