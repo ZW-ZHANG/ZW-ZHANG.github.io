@@ -17,6 +17,7 @@ I am looking for self-motivated undergraduate interns with solid mathematical ba
 
 News
 =====
+* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024!
 * [May 2024] Two papers about graph out-of-distribution generalization and continual graph neural architecture search are accepted by ICML 2024!
 * [Dec 2023] Two papers about out-of-distribution graph neural architecture search are accepted by AAAI 2024!
 * [Oct 2023] We wrote a perspective paper about **Large Graph Model**, which is accepted by NeurIPS GLFrontiers workshop! See more [here](https://arxiv.org/pdf/2308.14522) and [paper collection](https://github.com/THUMNLab/awesome-large-graph-model) 
@@ -51,8 +52,10 @@ Publications
 
 2024
 ======
-* [C30] <font color='red'> New! </font>Haoyang Li, Xin Wang, Zeyang Zhang, Haibo Chen, **Ziwei Zhang**, Wenwu Zhu. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=OS0szhkPmF) 
-* [C29] <font color='red'> New! </font>Zeyang Zhang, Xin Wang, Yijian Qin, Hong Chen, **Ziwei Zhang**, Xu Chu, Wenwu Zhu.  _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=Hg7C5YYifi) 
+* [C32] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Yijian Qin, Wenwu Zhu. LLM4DyG: Can LLMs Solve Spatial-Temporal Problems on Dynamic Graphs? _KDD, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=kVtIGTMQYm) 
+* [C31] <font color='red'> New! </font> Beini Xie, Heng Chang, **Ziwei Zhang**, Zeyang Zhang, Simin Wu, Xin Wang, Yuan Meng, Wenwu Zhu. Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification. _KDD, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=s55yKRxpam) 
+* [C30] <font color='red'> New! </font> Haoyang Li, Xin Wang, Zeyang Zhang, Haibo Chen, **Ziwei Zhang**, Wenwu Zhu. Disentangled Graph Self-supervised Learning under Distribution Shifts. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=OS0szhkPmF) 
+* [C29] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, Yijian Qin, Hong Chen, **Ziwei Zhang**, Xu Chu, Wenwu Zhu. Disentangled Continual Graph Neural Architecture Search with Invariant Modularization. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=Hg7C5YYifi) 
 * [C28] Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Customized Cross-device Neural Architecture Search with Images. _ICME, 2024. (Full Paper, CCF-B)_ 
 * [C27]	<font color='red'> New! </font> Jie Cai, Xin Wang, Haoyang Li, **Ziwei Zhang**, Wenwu Zhu. Multimodal Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_OMGNAS.pdf) 
 * [C26]	<font color='red'> New! </font> Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Data-augmented Curriculum Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_DCGAS.pdf) 
@@ -71,8 +74,8 @@ Publications
 * [C18] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'>CCF-A</font>)_  [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
 * [J13] Yang Liao, Jing Zhao, Jiyong Bian, **Ziwei Zhang**, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, 2023._
 * [J12] Fang Shen, Jialong Wang, **Ziwei Zhang**, Xin Wang, Yue Li, Zhaowei Geng, Bing Pan, Zengyi Lu, Wendy Zhao, Wenwu Zhu. Long-term Multivariate Time Series Forecasting in Data Centers Based on Multi-factor Separation Evolutionary Spatial-Temporal Graph Neural Networks. _KBS, 2023._
-* [J11] <font color='red'> New! </font> 张子威，王鑫，朱文武。图神经架构搜索综述. _计算机学报，2023. (综述文章, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_CJC_GraphNAS.pdf)
-* [J10] <font color='red'> New! </font> Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Invariant Node Representation Learning under Distribution Shifts with Multiple Latent Environments. _TOIS, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://dl.acm.org/doi/10.1145/3604427)
+* [J11] 张子威，王鑫，朱文武。图神经架构搜索综述. _计算机学报，2023. (综述文章, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_CJC_GraphNAS.pdf)
+* [J10] Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Invariant Node Representation Learning under Distribution Shifts with Multiple Latent Environments. _TOIS, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://dl.acm.org/doi/10.1145/3604427)
 
 2022
 ======
