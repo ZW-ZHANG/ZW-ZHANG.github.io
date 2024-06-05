@@ -11,9 +11,9 @@ redirect_from:
 This is the homepage of ZIWEI ZHANG 张子威, an associate professor in the School of Computer Science and Engineering, Beihang University. Prior to that, I was a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
 working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://pengcui.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/). 
 
-I am looking for self-motivated undergraduate interns with solid mathematical backgrounds and coding skills. Feel free to drop me an email with CV if interested.
+I am looking for self-motivated undergraduate interns and master students with solid mathematical backgrounds and coding skills. Feel free to drop me an email with CV if interested.
 
-<font color='red'> 目前仍有一个2025级入学的硕士名额，感兴趣请与我联系。 </font>
+所在课题组（负责人：[李建欣教授](https://shi.buaa.edu.cn/lijianxin/zh_CN/index/15087/list/index.htm)）每年有若干硕士与博士名额，感兴趣请与我联系。 
 
 News
 =====
