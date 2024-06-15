@@ -15,6 +15,8 @@ I am looking for self-motivated undergraduate interns and master students with s
 
 所在课题组（负责人：[李建欣教授](https://shi.buaa.edu.cn/lijianxin/zh_CN/index/15087/list/index.htm)）每年有若干硕士与博士名额，感兴趣请与我联系。 
 
+I am also open to discussions and collaborations in graph machine learning related topics. Feel free to drop me an email!
+
 News
 =====
 * [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024!
@@ -52,9 +54,10 @@ Publications
 
 2024
 ======
-* [C32] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Yijian Qin, Wenwu Zhu. LLM4DyG: Can LLMs Solve Spatial-Temporal Problems on Dynamic Graphs? _KDD, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=kVtIGTMQYm) 
+* [C32] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Yijian Qin, Wenwu Zhu. LLM4DyG: Can LLMs Solve Spatial-Temporal Problems on Dynamic Graphs? _KDD, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=kVtIGTMQYm) [(arXiv)](http://arxiv.org/abs/2310.17110)
 * [C31] <font color='red'> New! </font> Beini Xie, Heng Chang, **Ziwei Zhang**, Zeyang Zhang, Simin Wu, Xin Wang, Yuan Meng, Wenwu Zhu. Towards Lightweight Graph Neural Network Search with Curriculum Graph Sparsification. _KDD, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=s55yKRxpam) 
-* [C30] <font color='red'> New! </font> Haoyang Li, Xin Wang, Zeyang Zhang, Haibo Chen, **Ziwei Zhang**, Wenwu Zhu. Disentangled Graph Self-supervised Learning under Distribution Shifts. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=OS0szhkPmF) 
+* [C30] <font color='red'> New! </font> Haoyang Li, Xin Wang, Zeyang Zhang, Haibo Chen, **Ziwei Zhang**, Wenwu Zhu. DDisentangled Graph Self-supervised Learning for Out-of-Distribution
+Generalization. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=OS0szhkPmF) 
 * [C29] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, Yijian Qin, Hong Chen, **Ziwei Zhang**, Xu Chu, Wenwu Zhu. Disentangled Continual Graph Neural Architecture Search with Invariant Modularization. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=Hg7C5YYifi) 
 * [C28] Yang Yao, Xin Wang, Yijian Qin, **Ziwei Zhang**, Wenwu Zhu, Hong Mei. Customized Cross-device Neural Architecture Search with Images. _ICME, 2024. (Full Paper, CCF-B)_ 
 * [C27]	<font color='red'> New! </font> Jie Cai, Xin Wang, Haoyang Li, **Ziwei Zhang**, Wenwu Zhu. Multimodal Graph Neural Architecture Search Under Distribution Shifts. _AAAI, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2024_AAAI_OMGNAS.pdf) 
@@ -120,7 +123,6 @@ Preprints
 * Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _bioarXiv 2024.02.05.578922 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
 * Yijian Qin, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs. _arXiv 2310.18152_ [(Paper)](http://arxiv.org/abs/2310.18152)
-* Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Yijian Qin, Simin Wu, Wenwu Zhu. LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? _arXiv 2310.17110_ [(Paper)](http://arxiv.org/abs/2310.17110)
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _arXiv:2202.07987._ [(Paper)](http://arxiv.org/abs/2202.07987) [(Paper Collection)](https://github.com/THUMNLab/awesome-graph-ood)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(Paper)](https://arxiv.org/abs/2201.01288)
 * **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(Paper)](http://arxiv.org/abs/2112.12345)
