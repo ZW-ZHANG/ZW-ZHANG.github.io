@@ -75,7 +75,7 @@ Generalization. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Pap
 * [C20] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'>CCF-A</font>)_ 
 * [C19] Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _ICLR, 2023. (<font color='red'>Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY) [(Code)](https://github.com/THUMNLab/AutoGL-light)
 * [C18] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'>CCF-A</font>)_  [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
-* [J13] Yang Liao, Jing Zhao, Jiyong Bian, **Ziwei Zhang**, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, (<font color='red'>IF 23.7, JCR-Q1</font>) 2023._
+* [J13] Yang Liao, Jing Zhao, Jiyong Bian, **Ziwei Zhang**, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, 2023. (<font color='red'>IF 23.7, JCR-Q1</font>)_
 * [J12] Fang Shen, Jialong Wang, **Ziwei Zhang**, Xin Wang, Yue Li, Zhaowei Geng, Bing Pan, Zengyi Lu, Wendy Zhao, Wenwu Zhu. Long-term Multivariate Time Series Forecasting in Data Centers Based on Multi-factor Separation Evolutionary Spatial-Temporal Graph Neural Networks. _KBS, 2023._
 * [J11] 张子威，王鑫，朱文武。图神经架构搜索综述. _计算机学报，2023. (综述文章, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_CJC_GraphNAS.pdf)
 * [J10] Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Invariant Node Representation Learning under Distribution Shifts with Multiple Latent Environments. _TOIS, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://dl.acm.org/doi/10.1145/3604427)
@@ -177,7 +177,7 @@ I am fortunate to have collaborated with the following students in Tsinghua Univ
 * Z. Zhang (2025, Ph.D.)
 * Y. Qin (2024, Ph.D. $\rightarrow$ Top Minds researcher at Huawei)
 * H. Li (2023, Ph.D. $\rightarrow$ Postdoc at Weill Cornell Medicine)  
-* J. Cai (2023, master $\rightarrow$ Ph.D. at USC)-->
+* J. Cai (2023, master $\rightarrow$ Ph.D. at USC)
 * B. Xie (2023, master) <!-- researcher at) -->
 * C. Guan (2022, master $\rightarrow$ founder of Qingmao Intelligence)
 * H. Liu (2021, master $\rightarrow$ Ph.D. at Gatech)
