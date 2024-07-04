@@ -13,7 +13,7 @@ working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), 
 
 I am looking for self-motivated undergraduate interns and master students with solid mathematical backgrounds and coding skills. Feel free to drop me an email with CV if interested.
 
-所在课题组（负责人：[李建欣教授](https://shi.buaa.edu.cn/lijianxin/zh_CN/index/15087/list/index.htm)）每年有若干硕士与博士名额，感兴趣请与我联系。 
+所在课题组（负责人：[李建欣教授](https://shi.buaa.edu.cn/lijianxin/zh_CN/index/15087/list/index.htm)）每年有若干硕士与博士名额，感兴趣请尽量提前联系。 
 
 I am also open to discussions and collaborations in graph machine learning related topics. Feel free to drop me an email!
 
@@ -75,7 +75,7 @@ Generalization. _ICML, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [(Pap
 * [C20] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'>CCF-A</font>)_ 
 * [C19] Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _ICLR, 2023. (<font color='red'>Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY) [(Code)](https://github.com/THUMNLab/AutoGL-light)
 * [C18] Zeyang Zhang, **Ziwei Zhang**, Xin Wang, Yijian Qin, Zhou Qin, Wenwu Zhu. Dynamic Heterogeneous Graph Attention Neural Architecture Search. _AAAI, 2023. (Full Paper, <font color='red'>CCF-A</font>)_  [(Paper)](https://zw-zhang.github.io/files/2023_AAAI_DHGAS.pdf) [(Code)](https://github.com/wondergo2017/DHGAS)
-* [J13] Yang Liao, Jing Zhao, Jiyong Bian, **Ziwei Zhang**, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, 2023._
+* [J13] Yang Liao, Jing Zhao, Jiyong Bian, **Ziwei Zhang**, Siqi Xu, Yijian Qin, Shiyu Miao, Rui Li, Ruiping Liu, Meng Zhang, Wenwu Zhu, Huijuan Liu, Jiuhui Qu. From mechanism to application: decrypting light-regulated denitrifying microbiome through geometric deep learning. _iMeta, (<font color='red'>IF 23.7, JCR-Q1</font>) 2023._
 * [J12] Fang Shen, Jialong Wang, **Ziwei Zhang**, Xin Wang, Yue Li, Zhaowei Geng, Bing Pan, Zengyi Lu, Wendy Zhao, Wenwu Zhu. Long-term Multivariate Time Series Forecasting in Data Centers Based on Multi-factor Separation Evolutionary Spatial-Temporal Graph Neural Networks. _KBS, 2023._
 * [J11] 张子威，王鑫，朱文武。图神经架构搜索综述. _计算机学报，2023. (综述文章, <font color='red'>CCF-A</font>)_ [(Paper)](https://zw-zhang.github.io/files/2023_CJC_GraphNAS.pdf)
 * [J10] Haoyang Li, **Ziwei Zhang**, Xin Wang, Wenwu Zhu. Invariant Node Representation Learning under Distribution Shifts with Multiple Latent Environments. _TOIS, 2023. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](https://dl.acm.org/doi/10.1145/3604427)
@@ -145,12 +145,13 @@ Talks
 
 Professional Activities
 =====
-Conference Reviewer: NeurIPS 2020-2023, ICLR 2021-2024, KDD 2021-2024, ICML 2021-2024, AAAI 2021-2024, IJCAI 2021-2024, WWW 2022-2024, WSDM 2023-2024, LoG 2022-2023, CIKM 2019
+Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2024, ICML 2021-2024, AAAI 2021-2025, IJCAI 2021-2024, WWW 2022-2024, WSDM 2023-2025, LoG 2022-2024, CIKM 2019
 
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), etc.
 
 Awards
 =====
+* 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
 * 2022    The first prize award of natural science research of Ministry of Education (教育部自然科学一等奖)
 * 2022    AI 2000 Most Influential Scholar
 * 2022    Outstanding Doctoral Dissertation Honorable Mention of CAAI (吴文俊人工智能优秀博士学位论文提名)
@@ -174,9 +175,9 @@ Supervision
 =====
 I am fortunate to have collaborated with the following students in Tsinghua University (incomplete): 
 * Z. Zhang (2025, Ph.D.)
-* Y. Qin (2024, Ph.D.) <!-- $\rightarrow$ researcher at ) -->
+* Y. Qin (2024, Ph.D. $\rightarrow$ Top Minds researcher at Huawei)
 * H. Li (2023, Ph.D. $\rightarrow$ Postdoc at Weill Cornell Medicine)  
-* J. Cai (2023, master) <!-- Ph.D. at )-->
+* J. Cai (2023, master $\rightarrow$ Ph.D. at USC)-->
 * B. Xie (2023, master) <!-- researcher at) -->
 * C. Guan (2022, master $\rightarrow$ founder of Qingmao Intelligence)
 * H. Liu (2021, master $\rightarrow$ Ph.D. at Gatech)
