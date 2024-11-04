@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of ZIWEI ZHANG 张子威, an associate professor in the School of Computer Science and Engineering, Beihang University. Prior to that, I was a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, 
-working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://pengcui.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/). 
+This is the homepage of ZIWEI ZHANG 张子威, an associate professor in the School of Computer Science and Engineering, Beihang University. Prior to that, I was a postdoc researcher in the Department of Computer Science and Technology, Tsinghua University, working with Prof. [Wenwu Zhu](https://ieeexplore.ieee.org/author/37065056700), Prof. [Peng Cui](http://pengcui.thumedialab.com/), and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/).
 
 I am looking for self-motivated undergraduate interns and master students with solid mathematical backgrounds and coding skills. Feel free to drop me an email with CV if interested.
 
@@ -47,7 +46,7 @@ News
 
 Biography
 =====
-Ziwei Zhang is currently an associate professor at Beihang University. He received his Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2021. His current research interests focus on graph machine learning, including graph neural network (GNN), graph out-of-distribution generalization, and automated graph learning. He is also interested in exploring graph foundation models and applying graph machine learning into AI4Science, particularly bioinformatics. He has published over 40 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, AAAI, IJCAI, and TKDE.
+Ziwei Zhang is currently an associate professor at Beihang University. He received his B.S. from Mathematics and Physics and Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2016 and 2021, respectively. His current research interests focus on graph machine learning, including graph neural network (GNN), graph out-of-distribution generalization, and automated graph learning. He is also interested in exploring graph foundation models and applying graph machine learning into AI4Science, particularly bioinformatics. He has published over 40 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, ICLR, CVPR, AAAI, IJCAI, and TKDE.
 
 Publications
 =====
@@ -119,6 +118,7 @@ Before 2020
 
 Preprints
 =====
+* Peiwen Li, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Jialong Wang, Yang Li, Wenwu Zhu. Causal-Aware Graph Neural Architecture Search under Distribution Shifts. _arXiv 2405.16489_ [(Paper)](http://arxiv.org/abs/2405.16489)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
 * Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _bioarXiv 2024.02.05.578922 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
@@ -126,7 +126,6 @@ Preprints
 * Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _arXiv:2202.07987._ [(Paper)](http://arxiv.org/abs/2202.07987) [(Paper Collection)](https://github.com/THUMNLab/awesome-graph-ood)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(Paper)](https://arxiv.org/abs/2201.01288)
 * **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: Are Initial Representations All You Need? _arXiv:2112.12345_ [(Paper)](http://arxiv.org/abs/2112.12345)
-
 
 Talks
 =====
@@ -145,15 +144,18 @@ Talks
 
 Professional Activities
 =====
-Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2024, ICML 2021-2024, AAAI 2021-2025, IJCAI 2021-2024, WWW 2022-2024, WSDM 2023-2025, LoG 2022-2024, CIKM 2019
+VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF Expert Committee on Big Data, CCF AI Graph Task Group member
+
+Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2025, ICML 2021-2024, AAAI 2021-2025, IJCAI 2021-2024, WWW 2022-2025, WSDM 2023-2025, LoG 2022-2024, CIKM 2019
 
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), Neural Processing Letters (NEPL), etc.
 
 Awards
 =====
+* 2024    Top 2% Scientists by Stanford/Elsevier
 * 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
 * 2022    The first prize award of natural science research of Ministry of Education (教育部自然科学一等奖)
-* 2022    AI 2000 Most Influential Scholar
+* 2022    AI 2000 Most Influential Scholar (2022,2023,2024)
 * 2022    Outstanding Doctoral Dissertation Honorable Mention of CAAI (吴文俊人工智能优秀博士学位论文提名)
 * 2022    China National Postdoctoral Program for Innovative Talents (博士后创新人才支持计划)
 * 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
@@ -164,7 +166,7 @@ Awards
 <!--* 2019    Student Travel Award: KDD -->
 <!--* 2019    Best Oral Presentation, Tsinghua Ph.D. Students Forum -->
 <!--* 2018    Student Travel Awards: AAAI, ICDM -->
-* 2018    National Scholarship
+<!--** 2018    National Scholarship -->
 
 Media Coverage
 =====
