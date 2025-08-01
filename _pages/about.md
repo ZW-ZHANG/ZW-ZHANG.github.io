@@ -23,10 +23,10 @@ News
 * [July 2025] Our survey paper regarding _Graph OOD Generalization_ is accepted by IEEE TPAMI!
 * [May 2025] Our tutorial regarding _Towards Low-Distortion Graph Representation Learning_ is accepted by IJCAI 2025! See you in Guangzhou!
 * [May 2025] Our paper regarding OOD Graph NAS is accepted by KDD 2025!
-<!--* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024!
-* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024!
-* [May 2024] Two papers about graph out-of-distribution generalization and continual graph neural architecture search are accepted by ICML 2024!
-* [Dec 2023] Two papers about out-of-distribution graph neural architecture search are accepted by AAAI 2024!-->
+<!--* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024! -->
+<!--* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024! -->
+<!--* [May 2024] Two papers about graph out-of-distribution generalization and continual graph neural architecture search are accepted by ICML 2024! -->
+<!--* [Dec 2023] Two papers about out-of-distribution graph neural architecture search are accepted by AAAI 2024!-->
 * [Oct 2023] We wrote a perspective paper about **Large Graph Model**, which is accepted by NeurIPS GLFrontiers workshop! See more [here](https://arxiv.org/pdf/2308.14522) and [paper collection](https://github.com/THUMNLab/awesome-large-graph-model) 
 <!--* [Sep 2023] Four papers are accepted by NeurIPS! [SILD](https://openreview.net/forum?id=RRUVZygUtr) and [EA-DGNN](https://openreview.net/forum?id=n8JWIzYPRz) explore spectral and environment persepective of dynamic graph OOD generalization, while [MTGC3](https://openreview.net/forum?id=TOxpAwp0VE) and [DSGAS](https://openreview.net/forum?id=UAFa5ZhR85) study multi-task and unsupervised graph NAS!-->
 <!--* [Jul 2023] I gave a talk about [Automated Graph Machine Learning](https://zw-zhang.github.io/files/2023_DataFun_AutoGraph.pdf) at DataFun.-->
@@ -152,10 +152,10 @@ Talks
 * [Mar 2022] Invited talk at University of Chinese Academy of Sciences
 * [Aug 2021] Tutorial at SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2021 [Slides](https://zw-zhang.github.io/files/2021_KDD_AutoMLonGraph.pdf)
 * [Jul 2021] Invited talk at Cognitive Computing Lab (CCL), Baidu Research
-<!--* [Oct 2020] Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf)
-* [Dec 2019] Guest Lecture at Introduction to Artificial Intelligence class of Nankai University
-* [Mar 2019] Invited talk at CoLab, Beihang University
-* [Jun 2018] Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences -->
+<!--* [Oct 2020] Tutorial at Natural Language Processing and Chinese Computing (NLPCC) 2020 [Slides](https://zw-zhang.github.io/files/2020_NLPCC.pdf) -->
+<!--* [Dec 2019] Guest Lecture at Introduction to Artificial Intelligence class of Nankai University -->
+<!--* [Mar 2019] Invited talk at CoLab, Beihang University -->
+<!--* [Jun 2018] Invited talk at SigNAL, Institute of Computing Technology(ICT), Chinese Academy of Sciences -->
 
 Professional Activities
 =====
@@ -174,9 +174,9 @@ Awards
 * 2022    AI 2000 Most Influential Scholar (2022-2025)
 * 2022    Outstanding Doctoral Dissertation Honorable Mention of CAAI (吴文俊人工智能优秀博士学位论文提名)
 * 2022    China National Postdoctoral Program for Innovative Talents (博士后创新人才支持计划)
-<!--* 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department)
-* 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department) 
-* 2021    Baidu's Global Top 100 Chinese Rising Stars in AI-->
+<!--* 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department) -->
+<!--* 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department) -->
+<!--* 2021    Baidu's Global Top 100 Chinese Rising Stars in AI-->
 <!--* 2020    Outstanding TA awards -->
 <!--* 2020    Qidong Scholarship -->
 <!--* 2019    Student Travel Award: KDD -->
@@ -193,8 +193,9 @@ Media Coverage
 Supervision
 =====
 I am fortunate to have supervised/collaborated with the following students in Beihang University (incomplete): 
+
 | Name| Degree | Grad Year | Next Position |
-|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|
 | J. Luo   | Ph.D. | 2029(expected) | - |
 | H. Yuan  | Ph.D. | 2027(expected) | - |
 | X. You   | M.S.  | 2028(expected) | - |
@@ -203,7 +204,8 @@ I am fortunate to have supervised/collaborated with the following students in Be
 | Y. Wang  | B.S.  | 2025 | Master at Peking University|
   
 &nbsp;   
-While I was at Tsinghua University, I was fortunate to have collaborated with the following students: 
+While I was at Tsinghua University, I was fortunate to had collaborated with the following students: 
+
 | Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
 |-----|-----|-----|-----|-----|
 | Y. Yao   | Ph.D. | 2026(expected) | AAAI, ICME | - |
