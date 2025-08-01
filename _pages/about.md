@@ -18,7 +18,7 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
-* [July 2025] Our pre-print for GraphRAG-R1, an RL-enhancedd GraphRAG is available [here](https://arxiv.org/abs/2507.23581)
+* [July 2025] Our pre-print for GraphRAG-R1, an RL-enhanced GraphRAG is available [here](https://arxiv.org/abs/2507.23581)
 * [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul!
 * [July 2025] Our survey paper regarding _Graph OOD Generalization_ is accepted by IEEE TPAMI!
 * [May 2025] Our tutorial regarding _Towards Low-Distortion Graph Representation Learning_ is accepted by IJCAI 2025! See you in Guangzhou!
