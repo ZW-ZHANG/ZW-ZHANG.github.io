@@ -132,9 +132,10 @@ Before 2020
 Preprints
 =====
 * Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning _arXiv 2507.23581 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2507.23581)
-* Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. _arXiv 2508.00304 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
-* Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, Ziwei Zhang, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
-* Zhibiao Wang, Yunlong Zhou, Ziwei Zhang, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
+* Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. Invariant Graph Transformer for Out-of-Distribution Generalization
+ _arXiv 2508.00304 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
+* Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, **Ziwei Zhang**, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
+* Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
 * Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _bioarXiv 2024.02.05.578922 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
