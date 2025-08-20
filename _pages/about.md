@@ -19,7 +19,7 @@ I am also open to discussions and collaborations in graph machine learning relat
 News
 =====
 * [July 2025] Our pre-print for GraphRAG-R1, an RL-enhanced GraphRAG is available [here](https://arxiv.org/abs/2507.23581)
-* [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul!
+* [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul! See more [here](https://magic-group-buaa.github.io/CIKM2025_workshop/)
 * [July 2025] Our survey paper regarding _Graph OOD Generalization_ is accepted by IEEE TPAMI!
 * [May 2025] Our tutorial regarding _Towards Low-Distortion Graph Representation Learning_ is accepted by IJCAI 2025! See you in Guangzhou!
 * [May 2025] Our paper regarding OOD Graph NAS is accepted by KDD 2025!
@@ -131,7 +131,8 @@ Before 2020
 
 Preprints
 =====
-* Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. _arXiv 2507.23581_ [(paper)](https://arxiv.org/abs/2507.23581)
+* Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning _arXiv 2507.23581 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2507.23581)
+* Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. _arXiv 2508.00304 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
 * Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, Ziwei Zhang, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
 * Zhibiao Wang, Yunlong Zhou, Ziwei Zhang, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
@@ -162,7 +163,7 @@ Professional Activities
 VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF Expert Committee on Big Data, CCF AI Graph Task Group member
 
 AC: NeurIPS 2025
-Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2025, ICML 2021-2025, AAAI 2021-2027, IJCAI 2021-2025, WWW 2022-2025, WSDM 2023-2025, LoG 2022-2025, CIKM 2019
+Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2026, KDD 2021-2025, ICML 2021-2025, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
 
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), etc.
 
