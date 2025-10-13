@@ -18,8 +18,10 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
-* [July 2025] Our pre-print for GraphRAG-R1, an RL-enhanced GraphRAG is available [here](https://arxiv.org/abs/2507.23581)
-* [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul! See more [here](https://magic-group-buaa.github.io/CIKM2025_workshop/)
+* [Sep 2025] One paper regarding _graph foundation model_ is accepted by NeurIPS!
+* [Sep 2025] One paper regarding _graph for science_ is accepted by Genome Biology! [(Paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
+* [July 2025] Our pre-print for _GraphRAG-R1_, an RL-enhanced GraphRAG is available [(here)](https://arxiv.org/abs/2507.23581)
+* [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul! See more [(here)](https://magic-group-buaa.github.io/CIKM2025_workshop/)
 * [July 2025] Our survey paper regarding _Graph OOD Generalization_ is accepted by IEEE TPAMI!
 * [May 2025] Our tutorial regarding _Towards Low-Distortion Graph Representation Learning_ is accepted by IJCAI 2025! See you in Guangzhou!
 * [May 2025] Our paper regarding OOD Graph NAS is accepted by KDD 2025!
@@ -59,9 +61,11 @@ Publications
 
 2025
 ======
+* [C35] <font color='red'> New! </font> Zihao Guo, Qingyun Sun, **Ziwei Zhang**, Haonan Yuan, Huiping Zhuang, Xingcheng Fu, Jianxin Li 	GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation. . _**NeurIPS**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
 * [C34] <font color='red'> New! </font> Peiwen Li, Xin Wang, Zeyang Zhang, **Ziwei Zhang**, Fang Shen, Jialong Wang, Yang Li, Wenwu Zhu. 	
 Causal-aware Graph Neural Architecture Search under Distribution Shifts. _**KDD**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
-* [C33] <font color='red'> New! </font> Chendi Ge, Xin Wang, **Ziwei Zhang**, Yijian Qin, Hong Chen, Haiyang Wu, Yang Zhang, Yuekui Yang, Wenwu Zhu. Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation. _**AAAI**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
+* [C33] Chendi Ge, Xin Wang, **Ziwei Zhang**, Yijian Qin, Hong Chen, Haiyang Wu, Yang Zhang, Yuekui Yang, Wenwu Zhu. Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation. _**AAAI**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
+* [J15] <font color='red'> New! </font> Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _**Genome Biology**, 2025, Q1, IF 9.1 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
 * [J14] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _**IEEE TPAMI**, 2025. (Survey Paper, <font color='red'>CCF-A</font>)_ [(Paper)](http://arxiv.org/abs/2202.07987) [(Paper Collection)](https://github.com/THUMNLab/awesome-graph-ood)
 
 2024
@@ -78,11 +82,11 @@ Generalization. _**ICML**, 2024. (Full Paper, <font color='red'>CCF-A</font>)_ [
 
 2023
 ======
-* [W2] <font color='red'> New! </font> **Ziwei Zhang**, Haoyang Li, Zeyang Zhang, Yijian Qin, Xin Wang, Wenwu Zhu. Graph Meets LLMs: Towards Large Graph Models. _NeurIPS GLFrontiers workshop, 2023_ [(Paper)](https://arxiv.org/pdf/2308.14522.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-large-graph-model)
-* [C25] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Zhou Qin, Weigao Wen, Hui Xue, Haoyang Li, Wenwu Zhu. Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=RRUVZygUtr) [(Code)](https://github.com/wondergo2017/sild)
-* [C24] <font color='red'> New! </font> Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Guangyao Shen, Shiqi Shen, Wenwu Zhu. Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85) [(Code)](https://github.com/wondergo2017/dsgas)
-* [C23] <font color='red'> New! </font> Yijian Qin, Xin Wang, **Ziwei Zhang**, Hong Chen, Wenwu Zhu. Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE) [(Code)](https://github.com/THUMNLab/AutoGL-light)
-* [C22] <font color='red'> New! </font> Haonan Yuan, Qingyun Sun, Xingcheng Fu, **Ziwei Zhang**, Cheng Ji, Hao Peng, Jianxin Li. Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=n8JWIzYPRz) [(Code)](https://github.com/haonan-yuan/EAGLE)
+* [W2] **Ziwei Zhang**, Haoyang Li, Zeyang Zhang, Yijian Qin, Xin Wang, Wenwu Zhu. Graph Meets LLMs: Towards Large Graph Models. _NeurIPS GLFrontiers workshop, 2023_ [(Paper)](https://arxiv.org/pdf/2308.14522.pdf) [(Paper Collection)](https://github.com/THUMNLab/awesome-large-graph-model)
+* [C25] Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Zhou Qin, Weigao Wen, Hui Xue, Haoyang Li, Wenwu Zhu. Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=RRUVZygUtr) [(Code)](https://github.com/wondergo2017/sild)
+* [C24] Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Guangyao Shen, Shiqi Shen, Wenwu Zhu. Unsupervised Graph Neural Architecture Search with Disentangled Self-Supervision. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=UAFa5ZhR85) [(Code)](https://github.com/wondergo2017/dsgas)
+* [C23] Yijian Qin, Xin Wang, **Ziwei Zhang**, Hong Chen, Wenwu Zhu. Multi-task Graph Neural Architecture Search with Task-aware Collaboration and Curriculum. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=TOxpAwp0VE) [(Code)](https://github.com/THUMNLab/AutoGL-light)
+* [C22] Haonan Yuan, Qingyun Sun, Xingcheng Fu, **Ziwei Zhang**, Cheng Ji, Hao Peng, Jianxin Li. Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization. _**NeurIPS**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://openreview.net/forum?id=n8JWIzYPRz) [(Code)](https://github.com/haonan-yuan/EAGLE)
 * [C21] Beini Xie, Heng Chang, **Ziwei Zhang**, Xin Wang, Daixin Wang, Zhiqiang Zhang, Zhitao Ying, Wenwu Zhu. Adversarially Robust Neural Architecture Search for Graph Neural Networks. _**CVPR**, 2023. (<font color='red'>CCF-A</font>)_ [(Paper)](https://arxiv.org/pdf/2304.04168)
 * [C20] Haoyang Li, Xin Wang, **Ziwei Zhang**, Jianxin Ma, Peng Cui, Wenwu Zhu. Intention-aware Sequential Recommendation with Structured Intent Transition. _ICDE, 2023. (Extended Abstract, <font color='red'>CCF-A</font>)_ 
 * [C19] Zizhao Zhang, Xin Wang, Chaoyu Guan, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. AutoGT: Automated Graph Transformer Architecture Search. _**ICLR**, 2023. (<font color='red'>Oral </font>)_  [(Paper)](https://openreview.net/forum?id=GcM7qfl5zY) [(Code)](https://github.com/THUMNLab/AutoGL-light)
@@ -137,7 +141,6 @@ Preprints
 * Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, **Ziwei Zhang**, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
 * Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
-* Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _bioarXiv 2024.02.05.578922 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
 * Yijian Qin, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs. _arXiv 2310.18152_ [(Paper)](http://arxiv.org/abs/2310.18152)
 * Xin Wang\*, **Ziwei Zhang**\*, Wenwu Zhu. Automated Graph Machine Learning: Approaches, Libraries and Directions.  _arXiv:2201.01288. (\*: equal contribution)_ [(Paper)](https://arxiv.org/abs/2201.01288)
@@ -145,7 +148,7 @@ Preprints
 
 Talks
 =====
-* [Aug 2025] Tutorial at IJCAI 2025
+* [Aug 2025] Tutorial at IJCAI 2025 [Slides](https://magic-group-buaa.github.io/IJCAI25_tutorial/pages/resource.html)
 * [Nov 2023] Invited talk at DSA Thrust Seminar, HKUST(Guangzhou)
 * [Jul 2023] Invited talk at DataFun [Slides](https://zw-zhang.github.io/files/2023_DataFun_AutoGraph.pdf)
 * [Nov 2022] Invited talk at Learning on Graphs
@@ -161,16 +164,16 @@ Talks
 
 Professional Activities
 =====
-VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF Expert Committee on Big Data, CCF AI Graph Task Group member
+VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF Expert Committee on Big Data, CCF AI Graph Task Group member, CCF Senior Member
 
-AC: NeurIPS 2025
+AC: NeurIPS 2025, ICLR 2026
 Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2026, KDD 2021-2025, ICML 2021-2025, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
 
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), etc.
 
 Awards
 =====
-* 2024    Top 2% Scientists by Stanford/Elsevier
+* 2025    Top 2% Scientists by Stanford/Elsevier
 * 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
 * 2022    The first prize award of natural science research of Ministry of Education (教育部自然科学一等奖)
 * 2022    AI 2000 Most Influential Scholar (2022-2025)
