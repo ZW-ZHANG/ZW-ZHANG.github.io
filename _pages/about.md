@@ -175,7 +175,7 @@ VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF 
 AC: NeurIPS 2025, ICLR 2026
 Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2026, KDD 2021-2025, ICML 2021-2025, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
 
-AE: Neural Netwwork
+AE: Neural Network (2026-2028)
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), etc.
 
 Awards
