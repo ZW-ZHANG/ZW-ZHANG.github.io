@@ -18,15 +18,16 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
+* [Jan 2026] Three papers regarding _GraphRAG_ and _OOD Graph Generalization and Detection_, and _graph federated learning_ are accepted by WWW!
+* [Nov 2025] One paper regarding _OOD graph Transformer_ is accepted by KDD!
 * [Nov 2025] Two papers regarding _graph generation_ and _GFM backdoor attack_ are accepted by AAAI!
 * [Oct 2025] One (long overdue) paper regarding geometric deep learning is acctped by IEEE TPAMI! [(Paper)](http://arxiv.org/abs/2112.12345)
 * [Sep 2025] One paper regarding _graph foundation model_ is accepted by NeurIPS!
 * [Sep 2025] One paper regarding _graph for science_ is accepted by Genome Biology! [(Paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
-* [July 2025] Our pre-print for _GraphRAG-R1_, an RL-enhanced GraphRAG is available [(here)](https://arxiv.org/abs/2507.23581)
-* [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul! See more [(here)](https://magic-group-buaa.github.io/CIKM2025_workshop/)
+<!--* [July 2025] Our workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ is accepted by CIKM 2025! See you in Seoul! See more [(here)](https://magic-group-buaa.github.io/CIKM2025_workshop/) -->
 * [July 2025] Our survey paper regarding _Graph OOD Generalization_ is accepted by IEEE TPAMI!
-* [May 2025] Our tutorial regarding _Towards Low-Distortion Graph Representation Learning_ is accepted by IJCAI 2025! See you in Guangzhou!
-* [May 2025] Our paper regarding OOD Graph NAS is accepted by KDD 2025!
+<!--* [May 2025] Our tutorial regarding _Towards Low-Distortion Graph Representation Learning_ is accepted by IJCAI 2025! See you in Guangzhou! -->
+<!--* [May 2025] Our paper regarding OOD Graph NAS is accepted by KDD 2025! -->
 <!--* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024! -->
 <!--* [May 2024] Two papers about lightweight graph neural architecture search and LLM on dynamic graphs are accepted by KDD 2024! -->
 <!--* [May 2024] Two papers about graph out-of-distribution generalization and continual graph neural architecture search are accepted by ICML 2024! -->
@@ -63,18 +64,22 @@ Publications
 
 2026
 ======
-* [C37] <font color='red'> New! </font> Chunyu Hu, Tianyin Liao, Yicheng Sui, Ran Zhang, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Invariant Conditional Molecular Generation under Distribution Shift. _**AAAI**, 2026. (Full Paper, oral, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_
-* [C36] <font color='red'> New! </font> Jiayi Luo, Qingyun Sun, Lingjuan Lyu, **Ziwei Zhang**, Haonan Yuan, Xingcheng Fu, Jianxin Li. Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. _**AAAI**, 2026. (Full Paper, <font color='red'>CCF-A</font>)_
+* [C41] <font color='red'> New! </font>Tianyin Liao, Ge Lan, Rui Chen, Ran Zhang, Zhiming Chen, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Unifying Graph Out-of-Distribution Generalization and Detection through Spectral Contrastive Invariant learning. _**WWW**, 2026. (<font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_
+* [C40] <font color='red'> New! </font>Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning. _**WWW**, 2026. ( <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2507.23581)
+* [C39] <font color='red'> New! </font>Yuecen Wei, Zhiyu Zhuang, Yisen Gao, Xingcheng Fu, Qingyun Sun, **Ziwei Zhang**, Tianyu Wo, Chunming Hu. Towards Geometry-Consistent Federated Graph Learning. _**WWW**, 2026.(<font color='red'>CCF-A</font>)_
+* [C38] <font color='red'> New! </font> Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. Invariant Graph Transformer for Out-of-Distribution Generalization. _**KDD**, 2026. (Full Paper, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
+* [C37] <font color='red'> New! </font> Chunyu Hu, Tianyin Liao, Yicheng Sui, Ran Zhang, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Invariant Conditional Molecular Generation under Distribution Shift. _**AAAI**, 2026. (Full Paper, oral, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://zw-zhang.github.io/files/2026_AAAI_ICMOL.pdf)
+* [C36] <font color='red'> New! </font> Jiayi Luo, Qingyun Sun, Lingjuan Lyu, **Ziwei Zhang**, Haonan Yuan, Xingcheng Fu, Jianxin Li. Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. _**AAAI**, 2026. (Full Paper, <font color='red'>CCF-A</font>)_ [(paper)](https://zw-zhang.github.io/files/2026_AAAI_GFMBA.pdf)
 
 2025
 ======
-* [C35] <font color='red'> New! </font> Zihao Guo, Qingyun Sun, **Ziwei Zhang**, Haonan Yuan, Huiping Zhuang, Xingcheng Fu, Jianxin Li. GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation. _**NeurIPS**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
+* [C35] Zihao Guo, Qingyun Sun, **Ziwei Zhang**, Haonan Yuan, Huiping Zhuang, Xingcheng Fu, Jianxin Li. GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation. _**NeurIPS**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
 * [C34] Peiwen Li, Xin Wang, Zeyang Zhang, **Ziwei Zhang**, Fang Shen, Jialong Wang, Yang Li, Wenwu Zhu. 	
 Causal-aware Graph Neural Architecture Search under Distribution Shifts. _**KDD**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
 * [C33] Chendi Ge, Xin Wang, **Ziwei Zhang**, Yijian Qin, Hong Chen, Haiyang Wu, Yang Zhang, Yuekui Yang, Wenwu Zhu. Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation. _**AAAI**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_
-* [J16] <font color='red'> New! </font>  **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: An Initial Representation Perspective. _**IEEE TPAMI**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](http://arxiv.org/abs/2112.12345)_
-* [J15] <font color='red'> New! </font> Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _**Genome Biology**, 2025, <font color='red'>Q1</font>, IF 9.1 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
-* [J14] <font color='red'> New! </font> Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _**IEEE TPAMI**, 2025. (Survey Paper, <font color='red'>CCF-A</font>)_ [(Paper)](http://arxiv.org/abs/2202.07987) [(Paper Collection)](https://github.com/THUMNLab/awesome-graph-ood)
+* [J16] **Ziwei Zhang**, Xin Wang, Zeyang Zhang, Peng Cui, Wenwu Zhu. Revisiting Transformation Invariant Geometric Deep Learning: An Initial Representation Perspective. _**IEEE TPAMI**, 2025. (Full Paper, <font color='red'>CCF-A</font>)_ [(Paper)](http://arxiv.org/abs/2112.12345)
+* [J15] Jun Zhu, Zeyang Zhang, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu, **Ziwei Zhang**<sup>#</sup>, Cheng Chang. Decoding cell identity with multi-scale explainable deep learning. _**Genome Biology**, 2025, <font color='red'>Q1</font>, IF 9.1 (<sup>#</sup>: co-corresponding authors)_ [(paper)](https://www.biorxiv.org/content/10.1101/2024.02.05.578922v1)
+* [J14] Haoyang Li, Xin Wang, **Ziwei Zhang**, Wenwu Zhu. Out-Of-Distribution Generalization on Graphs: A Survey. _**IEEE TPAMI**, 2025. (Survey Paper, <font color='red'>CCF-A</font>)_ [(Paper)](http://arxiv.org/abs/2202.07987) [(Paper Collection)](https://github.com/THUMNLab/awesome-graph-ood)
 
 2024
 ======
@@ -142,8 +147,6 @@ Before 2020
 
 Preprints
 =====
-* Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning _arXiv 2507.23581 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2507.23581)
-* Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. Invariant Graph Transformer for Out-of-Distribution Generalization. _arXiv 2508.00304 (<sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
 * Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, **Ziwei Zhang**, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
 * Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
@@ -172,15 +175,16 @@ Professional Activities
 =====
 VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF Expert Committee on Big Data, CCF AI Graph Task Group member, CCF Senior Member
 
-AC: NeurIPS 2025, ICLR 2026
-Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2026, KDD 2021-2025, ICML 2021-2025, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
+AC/SPC: NeurIPS 2025, ICLR 2026, IJCAI 2026
+Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2026, ICML 2021-2026, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
 
-AE: Neural Network (2026-2028)
+AE: Neural Network
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), etc.
 
 Awards
 =====
 * 2025    Top 2% Scientists by Stanford/Elsevier
+* 2025    NAAI Outstanding Young Scientist Award
 * 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
 * 2022    The first prize award of natural science research of Ministry of Education (教育部自然科学一等奖)
 * 2022    AI 2000 Most Influential Scholar (2022-2025)
@@ -206,14 +210,16 @@ Supervision
 =====
 I am fortunate to have supervised/collaborated with the following students in Beihang University (incomplete): 
 
-| Name| Degree | Grad Year | Next Position |
-|-----|-----|-----|-----|
-| J. Luo   | Ph.D. | 2029(expected) | - |
-| H. Yuan  | Ph.D. | 2027(expected) | - |
-| X. You   | M.S.  | 2028(expected) | - |
-| Z. Guo   | M.S.  | 2027(expected) | - |
-| Y. Gao   | B.S.  | 2025 | Master at HKUST |
-| Y. Wang  | B.S.  | 2025 | Master at Peking University|
+| Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
+|-----|-----|-----|-----|-----|
+| J. Yuan  | Ph.D. | 2030(expected) | In submission	  | - |
+| J. Luo   | Ph.D. | 2029(expected) | AAAI 			  | - |
+| Y. Wei   | Ph.D. | 2027(expected) | WWW			  | - |
+| H. Yuan  | Ph.D. | 2026(expected) | NeurIPS 		  | - |
+| X. You   | M.S.  | 2028(expected) | - 			  | - |
+| Z. Guo   | M.S.  | 2027(expected) | NeurIPS 		  | - |
+| Y. Gao   | B.S.  | 2025 			| In submission	  | Master at HKUST |
+| Y. Wang  | B.S.  | 2025 			| In submission	  | Master at Peking University|
   
 &nbsp;   
 While I was at Tsinghua University, I was fortunate to had collaborated with the following students: 
@@ -232,3 +238,11 @@ While I was at Tsinghua University, I was fortunate to had collaborated with the
 | H. Liu   | M.S.  | 2021 | KDD  | Ph.D. at Gatech|
 | Z. Zhang | B.S.  | 2022 | ICLR | Ph.D. at UC Berkeley|
 | C. Niu   | B.S.  | 2020 | TKDE | Master at CMU  |
+
+I am also fortunate to have supervised/collaborated with the following students from Nankai University: 
+| Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
+|-----|-----|-----|-----|-----|
+| C. Yu   | Ph.D. | 2029(expected) | WWW      		| - |
+| T. Liao | Ph.D. | 2028(expected) | KDD, WWW 		| - |
+| X. Yue  | Ph.D. | 2028(expected) | In submission  | - |
+| C. Hu   | Ph.D. | 2027(expected) | AAAI     		| - |
