@@ -239,7 +239,9 @@ While I was at Tsinghua University, I was fortunate to had collaborated with the
 | Z. Zhang | B.S.  | 2022 | ICLR | Ph.D. at UC Berkeley|
 | C. Niu   | B.S.  | 2020 | TKDE | Master at CMU  |
 
+&nbsp;   
 I am also fortunate to have supervised/collaborated with the following students from Nankai University: 
+
 | Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
 |-----|-----|-----|-----|-----|
 | C. Yu   | Ph.D. | 2029(expected) | WWW      		| - |
