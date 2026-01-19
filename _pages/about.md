@@ -18,6 +18,7 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
+* [Jan 2026] Our preprint regarding Diffusion Language Model (DLM) + Retrieval Augmented Generation (RAG) is available. [(Paper)](https://arxiv.org/abs/2601.11342)
 * [Jan 2026] Three papers regarding _GraphRAG_ and _OOD Graph Generalization and Detection_, and _graph federated learning_ are accepted by WWW!
 * [Nov 2025] One paper regarding _OOD graph Transformer_ is accepted by KDD!
 * [Nov 2025] Two papers regarding _graph generation_ and _GFM backdoor attack_ are accepted by AAAI!
@@ -147,6 +148,7 @@ Before 2020
 
 Preprints
 =====
+* Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, Qingyun Sun, Jia Li, Jianxin Li, Ziwei Zhang. Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models. _arXiv 2601.11342._ [(Paper)](https://arxiv.org/abs/2601.11342)
 * Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, **Ziwei Zhang**, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
 * Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
