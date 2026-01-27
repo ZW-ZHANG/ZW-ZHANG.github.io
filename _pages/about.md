@@ -18,6 +18,7 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
+* [Jan 2026] Two papers are accepted by ICLR 2026!
 * [Jan 2026] Our preprint regarding Diffusion Language Model (DLM) + Retrieval Augmented Generation (RAG) is available. [(Paper)](https://arxiv.org/abs/2601.11342)
 * [Jan 2026] Three papers regarding _GraphRAG_ and _OOD Graph Generalization and Detection_, and _graph federated learning_ are accepted by WWW!
 * [Nov 2025] One paper regarding _OOD graph Transformer_ is accepted by KDD!
@@ -65,6 +66,8 @@ Publications
 
 2026
 ======
+* [C43] <font color='red'> New! </font>Yunan Wang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models. _**ICLR**, 2026._ [(Paper)](https://openreview.net/forum?id=puocvrFZRl)
+* [C42] <font color='red'> New! </font>Yisen Gao, Jiaxin Bai, Tianshi Zheng, **Ziwei Zhang**, Qingyun Sun, Xingcheng Fu, Jianxin Li, Yangqiu Song. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _**ICLR**, 2026. (<sup>#</sup>: corresponding author)_ [(Paper)](https://openreview.net/forum?id=oTgJg0M9kY)
 * [C41] <font color='red'> New! </font>Tianyin Liao, Ge Lan, Rui Chen, Ran Zhang, Zhiming Chen, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Unifying Graph Out-of-Distribution Generalization and Detection through Spectral Contrastive Invariant learning. _**WWW**, 2026. (<font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_
 * [C40] <font color='red'> New! </font>Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning. _**WWW**, 2026. ( <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2507.23581)
 * [C39] <font color='red'> New! </font>Yuecen Wei, Zhiyu Zhuang, Yisen Gao, Xingcheng Fu, Qingyun Sun, **Ziwei Zhang**, Tianyu Wo, Chunming Hu. Towards Geometry-Consistent Federated Graph Learning. _**WWW**, 2026.(<font color='red'>CCF-A</font>)_
@@ -185,6 +188,7 @@ Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Dat
 
 Awards
 =====
+* 2025    First Prize for Scientific and Technological Progress of Chinese Institude of Electronics (中国电子学会科技进步一等奖)
 * 2025    Top 2% Scientists by Stanford/Elsevier
 * 2025    NAAI Outstanding Young Scientist Award
 * 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
@@ -215,13 +219,13 @@ I am fortunate to have supervised/collaborated with the following students in Be
 | Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
 |-----|-----|-----|-----|-----|
 | J. Yuan  | Ph.D. | 2030(expected) | In submission	  | - |
-| J. Luo   | Ph.D. | 2029(expected) | AAAI 			  | - |
-| Y. Wei   | Ph.D. | 2027(expected) | WWW			  | - |
-| H. Yuan  | Ph.D. | 2026(expected) | NeurIPS 		  | - |
-| X. You   | M.S.  | 2028(expected) | - 			  | - |
-| Z. Guo   | M.S.  | 2027(expected) | NeurIPS 		  | - |
-| Y. Gao   | B.S.  | 2025 			| In submission	  | Master at HKUST |
-| Y. Wang  | B.S.  | 2025 			| In submission	  | Master at Peking University|
+| J. Luo   | Ph.D. | 2029(expected) | AAAI 			      | - |
+| Y. Wei   | Ph.D. | 2027(expected) | WWW			        | - |
+| H. Yuan  | Ph.D. | 2026(expected) | NeurIPS 		    | - |
+| X. You   | M.S.  | 2028(expected) | - 			        | - |
+| Z. Guo   | M.S.  | 2027(expected) | NeurIPS 		    | - |
+| Y. Gao   | B.S.  | 2025 			| ICLR			          | Master at HKUST |
+| Y. Wang  | B.S.  | 2025 			| ICLR	  		        | Master at Peking University|
   
 &nbsp;   
 While I was at Tsinghua University, I was fortunate to had collaborated with the following students: 
