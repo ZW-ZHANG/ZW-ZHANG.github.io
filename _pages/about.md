@@ -18,6 +18,7 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
+* [Feb 2026] Our paper regarding exploring tabular foundation model for universal link prediction is available. [(Paper)](https://arxiv.org/abs/2602.08592)
 * [Jan 2026] Two papers are accepted by ICLR 2026!
 * [Jan 2026] Our preprint regarding Diffusion Language Model (DLM) + Retrieval Augmented Generation (RAG) is available. [(Paper)](https://arxiv.org/abs/2601.11342)
 * [Jan 2026] Three papers regarding _GraphRAG_ and _OOD Graph Generalization and Detection_, and _graph federated learning_ are accepted by WWW!
@@ -59,7 +60,9 @@ News
 
 Biography
 =====
-Ziwei Zhang is currently an associate professor at Beihang University. He received his B.S. from Mathematics and Physics and Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2016 and 2021, respectively. His current research interests focus on the intersection between graph machine learning and LLMs, e.g., graph foundation model, Graph LLM, GraphRAG, Graph Agent, Graph-enhanced LLM reasoning, etc. He has published over 50 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, ICLR, CVPR, AAAI, IJCAI, TPAMI, and TKDE.
+张子威，现任北京航空航天大学副教授，2021年于清华大学计算机系取得博士学位，研究方向为图机器学习与大模型结合，以及其在智能科学中的应用。主持国家自然科学基金重大计划培育项目、面上项目、青年基金等，在国际顶级会议和期刊发表论文50余篇，谷歌引用超过7000次。获国家自然科学二等奖、教育部自然科学一等奖，入选博士后创新人才支持计划、吴文俊优青、AI 2000学者榜单、全球前2%顶尖科学家榜单、百度AI华人新星百强榜单等。
+
+Ziwei Zhang is currently an associate professor at Beihang University. He received his B.S. from Mathematics and Physics and Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2016 and 2021, respectively. His current research interests focus on the intersection between graph machine learning and LLMs, e.g., graph foundation model, Graph LLM, GraphRAG, Graph Agent, Graph-enhanced LLM reasoning, etc. He has published over 60 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, ICLR, CVPR, AAAI, IJCAI, TPAMI, and TKDE.
 
 Publications
 =====
@@ -151,8 +154,9 @@ Before 2020
 
 Preprints
 =====
+* Tianyin Liao, Chunyu Hu, Yicheng Sui, Xingxuan Zhang, Peng Cui, Jianxin Li, Ziwei Zhang. TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models. _arXiv 2602.08592._ [(Paper)](https://arxiv.org/abs/2602.08592)
+
 * Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, Qingyun Sun, Jia Li, Jianxin Li, Ziwei Zhang. Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models. _arXiv 2601.11342._ [(Paper)](https://arxiv.org/abs/2601.11342)
-* Yisen Gao, Jiaxin Bai, Tianshi Zheng, Qingyun Sun, **Ziwei Zhang**, Jianxin Li, Yangqiu Song, Xingcheng Fu. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _arXiv 2505.20948_ [(paper)](https://arxiv.org/abs/2505.20948)
 * Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
 * Zeyang Zhang, Xin Wang, **Ziwei Zhang**, Haoyang Li, Wenwu Zhu. Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion. _arXiv 2311.14255_ [(Paper)](http://arxiv.org/abs/2311.14255)
@@ -162,6 +166,10 @@ Preprints
 
 Talks
 =====
+* [Jan 2026] Invited talk at AI Time
+* [Dec 2025] Invited talk at ChinaData 2025
+* [Dec 2025] Invited talk at COSINT 2025
+* [Dec 2025] Invited talk at 2025 NAAI Asia AI Conference
 * [Aug 2025] Tutorial at IJCAI 2025 [Slides](https://magic-group-buaa.github.io/IJCAI25_tutorial/pages/resource.html)
 * [Nov 2023] Invited talk at DSA Thrust Seminar, HKUST(Guangzhou)
 * [Jul 2023] Invited talk at DataFun [Slides](https://zw-zhang.github.io/files/2023_DataFun_AutoGraph.pdf)
@@ -180,7 +188,8 @@ Professional Activities
 =====
 VALSE (Vision And Learning SEminar) EACC (Executive Area Chairs Committee), CCF Expert Committee on Big Data, CCF AI Graph Task Group member, CCF Senior Member
 
-AC/SPC: NeurIPS 2025, ICLR 2026, IJCAI 2026
+AC/SPC: NeurIPS 2025, ICLR 2026, KDD 2026, IJCAI 2026
+
 Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2026, ICML 2021-2026, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
 
 AE: Neural Network
@@ -188,6 +197,7 @@ Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Dat
 
 Awards
 =====
+* 2025	  Outstanding Young Scientist Award of CAAI (吴文俊人工智能青年科技奖)
 * 2025    First Prize for Scientific and Technological Progress of Chinese Institude of Electronics (中国电子学会科技进步一等奖)
 * 2025    Top 2% Scientists by Stanford/Elsevier
 * 2025    NAAI Outstanding Young Scientist Award
