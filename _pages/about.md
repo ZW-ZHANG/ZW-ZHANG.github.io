@@ -69,6 +69,7 @@ Publications
 
 2026
 ======
+* [C44] Yunxuan Fang, Ziwei Zhang, Xinhe Wang. When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning. _**ICME**, 2026. (CCF-B) _
 * [C43] <font color='red'> New! </font>Yunan Wang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models. _**ICLR**, 2026. (<sup>#</sup>: corresponding author)_ [(Paper)](https://openreview.net/forum?id=puocvrFZRl)
 * [C42] <font color='red'> New! </font>Yisen Gao, Jiaxin Bai, Tianshi Zheng, **Ziwei Zhang**, Qingyun Sun, Xingcheng Fu, Jianxin Li, Yangqiu Song. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _**ICLR**, 2026._ [(Paper)](https://openreview.net/forum?id=oTgJg0M9kY)
 * [C41] <font color='red'> New! </font>Tianyin Liao, Ge Lan, Rui Chen, Ran Zhang, Zhiming Chen, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Unifying Graph Out-of-Distribution Generalization and Detection through Spectral Contrastive Invariant learning. _**WWW**, 2026. (<font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_
@@ -154,8 +155,8 @@ Before 2020
 
 Preprints
 =====
+* Haonan Yuan, Qingyun Sun, Junhua Shi, Mingjun Liu, Jiaqi Yuan, Ziwei Zhang, Xingcheng Fu, Jianxin Li. Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG. _arXiv:2603.07179._ [(Paper)](https://arxiv.org/abs/2603.07179)
 * Tianyin Liao, Chunyu Hu, Yicheng Sui, Xingxuan Zhang, Peng Cui, Jianxin Li, Ziwei Zhang. TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models. _arXiv 2602.08592._ [(Paper)](https://arxiv.org/abs/2602.08592)
-
 * Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, Qingyun Sun, Jia Li, Jianxin Li, Ziwei Zhang. Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models. _arXiv 2601.11342._ [(Paper)](https://arxiv.org/abs/2601.11342)
 * Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
@@ -193,18 +194,19 @@ AC/SPC: NeurIPS 2025, ICLR 2026, KDD 2026, IJCAI 2026
 Conference Reviewer: NeurIPS 2020-2024, ICLR 2021-2025, KDD 2021-2026, ICML 2021-2026, AAAI 2021-2026, IJCAI 2021-2025, WWW 2022-2026, WSDM 2023-2026, LoG 2022-2025, CIKM 2019,2025
 
 AE: Neural Network
+
 Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Data Engineering (TKDE), Journal of Machine Learning Research (JMLR), IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Trans. on Neural Networks and Learning Systems (TNNLS), etc.
 
 Awards
 =====
 * 2025	  Outstanding Young Scientist Award of CAAI (吴文俊人工智能青年科技奖)
 * 2025    First Prize for Scientific and Technological Progress of Chinese Institude of Electronics (中国电子学会科技进步一等奖)
-* 2025    Top 2% Scientists by Stanford/Elsevier
 * 2025    NAAI Outstanding Young Scientist Award
+* 2024    Top 2% Scientists by Stanford/Elsevier (2024-2025)
 * 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
 * 2022    The first prize award of natural science research of Ministry of Education (教育部自然科学一等奖)
 * 2022    AI 2000 Most Influential Scholar (2022-2025)
-* 2022    Outstanding Doctoral Dissertation Honorable Mention of CAAI (吴文俊人工智能优秀博士学位论文提名)
+<!--* 2022    Outstanding Doctoral Dissertation Honorable Mention of CAAI (吴文俊人工智能优秀博士学位论文提名)-->
 * 2022    China National Postdoctoral Program for Innovative Talents (博士后创新人才支持计划)
 <!--* 2021    Outstanding Doctoral Graduate in Tsinghua University (top 3 in the department) -->
 <!--* 2021    Outstanding Doctoral Dissertation in Tsinghua University (top 7 in the department) -->
