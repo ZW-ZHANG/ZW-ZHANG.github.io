@@ -60,7 +60,7 @@ News
 
 Biography
 =====
-张子威，现任北京航空航天大学副教授，2021年于清华大学计算机系取得博士学位，研究方向为图机器学习与大模型结合，以及其在智能科学中的应用。主持国家自然科学基金重大计划培育项目、面上项目、青年基金等，在国际顶级会议和期刊发表论文50余篇，谷歌引用超过7000次。获国家自然科学二等奖、教育部自然科学一等奖，入选博士后创新人才支持计划、吴文俊优青、AI 2000学者榜单、全球前2%顶尖科学家榜单、百度AI华人新星百强榜单等。
+张子威，现任北京航空航天大学副教授，2021年于清华大学计算机系取得博士学位，研究方向为图机器学习与大模型结合，以及其在智能科学中的应用。主持国家自然科学基金重大计划培育项目、面上项目、青年基金等，在国际顶级会议和期刊发表论文60余篇，谷歌引用超过7000次。获国家自然科学二等奖、教育部自然科学一等奖，入选吴文俊青年科技奖、博士后创新人才支持计划、AI 2000学者榜单、全球前2%顶尖科学家榜单、百度AI华人新星百强榜单等。
 
 Ziwei Zhang is currently an associate professor at Beihang University. He received his B.S. from Mathematics and Physics and Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2016 and 2021, respectively. His current research interests focus on the intersection between graph machine learning and LLMs, e.g., graph foundation model, Graph LLM, GraphRAG, Graph Agent, Graph-enhanced LLM reasoning, etc. He has published over 60 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, ICLR, CVPR, AAAI, IJCAI, TPAMI, and TKDE.
 
@@ -69,7 +69,7 @@ Publications
 
 2026
 ======
-* [C44] Yunxuan Fang, Ziwei Zhang, Xinhe Wang. When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning. _**ICME**, 2026. (CCF-B) _
+* [C44] Yunxuan Fang, Ziwei Zhang, Xinhe Wang. When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning.  _**ICME**, 2026. (CCF-B)_
 * [C43] <font color='red'> New! </font>Yunan Wang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models. _**ICLR**, 2026. (<sup>#</sup>: corresponding author)_ [(Paper)](https://openreview.net/forum?id=puocvrFZRl)
 * [C42] <font color='red'> New! </font>Yisen Gao, Jiaxin Bai, Tianshi Zheng, **Ziwei Zhang**, Qingyun Sun, Xingcheng Fu, Jianxin Li, Yangqiu Song. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _**ICLR**, 2026._ [(Paper)](https://openreview.net/forum?id=oTgJg0M9kY)
 * [C41] <font color='red'> New! </font>Tianyin Liao, Ge Lan, Rui Chen, Ran Zhang, Zhiming Chen, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Unifying Graph Out-of-Distribution Generalization and Detection through Spectral Contrastive Invariant learning. _**WWW**, 2026. (<font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_
