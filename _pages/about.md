@@ -69,7 +69,8 @@ Publications
 
 2026
 ======
-* [C44] Yunxuan Fang, Ziwei Zhang, Xinhe Wang. When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning.  _**ICME**, 2026. (CCF-B)_
+* [C45] <font color='red'> New! </font>Haoyue Deng, Menghui Wang, Yunlong Zhou, **Ziwei Zhang**, Ran Zhang, Chunming Hu, Xiao Wang. Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion. _**ICML**, 2026. (Full Paper, <font color='red'>CCF-A</font>)_ 
+* [C44] Yunxuan Fang, **Ziwei Zhang**, Xinhe Wang. When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning.  _**ICME**, 2026. (CCF-B)_
 * [C43] <font color='red'> New! </font>Yunan Wang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models. _**ICLR**, 2026. (<sup>#</sup>: corresponding author)_ [(Paper)](https://openreview.net/forum?id=puocvrFZRl)
 * [C42] <font color='red'> New! </font>Yisen Gao, Jiaxin Bai, Tianshi Zheng, **Ziwei Zhang**, Qingyun Sun, Xingcheng Fu, Jianxin Li, Yangqiu Song. Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs. _**ICLR**, 2026._ [(Paper)](https://openreview.net/forum?id=oTgJg0M9kY)
 * [C41] <font color='red'> New! </font>Tianyin Liao, Ge Lan, Rui Chen, Ran Zhang, Zhiming Chen, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Unifying Graph Out-of-Distribution Generalization and Detection through Spectral Contrastive Invariant learning. _**WWW**, 2026. (<font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_
@@ -78,6 +79,8 @@ Publications
 * [C38] <font color='red'> New! </font> Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. Invariant Graph Transformer for Out-of-Distribution Generalization. _**KDD**, 2026. (Full Paper, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
 * [C37] <font color='red'> New! </font> Chunyu Hu, Tianyin Liao, Yicheng Sui, Ran Zhang, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Invariant Conditional Molecular Generation under Distribution Shift. _**AAAI**, 2026. (Full Paper, oral, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://zw-zhang.github.io/files/2026_AAAI_ICMOL.pdf)
 * [C36] <font color='red'> New! </font> Jiayi Luo, Qingyun Sun, Lingjuan Lyu, **Ziwei Zhang**, Haonan Yuan, Xingcheng Fu, Jianxin Li. Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. _**AAAI**, 2026. (Full Paper, <font color='red'>CCF-A</font>)_ [(paper)](https://zw-zhang.github.io/files/2026_AAAI_GFMBA.pdf)
+* [J18] Xingcheng Fu, Qingyun Sun, **Ziwei Zhang**, Jianxin Li. Curvature-Aware Graph Foundation Models: A Manifold Geometric Perspective. **FCS**, 2026. 
+* [J17] 张子威，王啸，崔鹏，朱文武。图机器学习泛化性：回顾与展望. [(paper)](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=7863678077847552)
 
 2025
 ======
@@ -200,7 +203,7 @@ Journal Reviewer: Nature Computational Science, IEEE Trans. on Knowledge and Dat
 Awards
 =====
 * 2025	  Outstanding Young Scientist Award of CAAI (吴文俊人工智能青年科技奖)
-* 2025    First Prize for Scientific and Technological Progress of Chinese Institude of Electronics (中国电子学会科技进步一等奖)
+* 2025    First Prize for Scientific and Technological Progress of Chinese Institute of Electronics (中国电子学会科技进步一等奖)
 * 2025    NAAI Outstanding Young Scientist Award
 * 2024    Top 2% Scientists by Stanford/Elsevier (2024-2025)
 * 2023    The second prize of the State Natural Science Award, P.R.CHINA (国家自然科学二等奖)
@@ -226,9 +229,11 @@ Media Coverage
 
 Supervision
 =====
+Note: In the following, I only count **the papers that I co-authored** (i.e., students may have additional papers) and only count **first authorships** (i.e., if multiple students co-author a paper, it is counted only once).
+
 I am fortunate to have supervised/collaborated with the following students in Beihang University (incomplete): 
 
-| Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
+| Name| Degree | Grad Year | Coauthor| Next Position |
 |-----|-----|-----|-----|-----|
 | J. Yuan  | Ph.D. | 2030(expected) | In submission	  | - |
 | J. Luo   | Ph.D. | 2029(expected) | AAAI 			      | - |
@@ -242,7 +247,7 @@ I am fortunate to have supervised/collaborated with the following students in Be
 &nbsp;   
 While I was at Tsinghua University, I was fortunate to had collaborated with the following students: 
 
-| Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
+| Name| Degree | Grad Year | Coauthor| Next Position |
 |-----|-----|-----|-----|-----|
 | Y. Yao   | Ph.D. | 2026(expected) | AAAI, ICME | - |
 | Z. Zhang | Ph.D. | 2025 | NeurIPS\*3, ICML, KDD, AAAI\*2| Top Seed at ByteDance |
@@ -260,7 +265,7 @@ While I was at Tsinghua University, I was fortunate to had collaborated with the
 &nbsp;   
 I am also fortunate to have supervised/collaborated with the following students from Nankai University: 
 
-| Name| Degree | Grad Year | Coauthor (student first author) | Next Position |
+| Name| Degree | Grad Year | Coauthor | Next Position |
 |-----|-----|-----|-----|-----|
 | C. Yu   | Ph.D. | 2029(expected) | WWW      		| - |
 | T. Liao | Ph.D. | 2028(expected) | KDD, WWW 		| - |
