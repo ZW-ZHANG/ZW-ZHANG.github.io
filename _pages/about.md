@@ -18,6 +18,7 @@ I am also open to discussions and collaborations in graph machine learning relat
 
 News
 =====
+* [Aug 2026] We will host a workshop regarding _Frontiers in Graph Machine Learning for the Large Model Era_ in KDD 2026! Invitive speakers include Irwin King, Nitesh Chawla, Hanghang Tong, Yizhou Sun. See more [(here)](https://magic-group-buaa.github.io/KDD2026_workshop/)
 * [Feb 2026] Our paper regarding exploring tabular foundation model for universal link prediction is available. [(Paper)](https://arxiv.org/abs/2602.08592)
 * [Jan 2026] Two papers are accepted by ICLR 2026!
 * [Jan 2026] Our preprint regarding Diffusion Language Model (DLM) + Retrieval Augmented Generation (RAG) is available. [(Paper)](https://arxiv.org/abs/2601.11342)
@@ -60,7 +61,7 @@ News
 
 Biography
 =====
-张子威，现任北京航空航天大学副教授，2021年于清华大学计算机系取得博士学位，研究方向为图机器学习与大模型结合，以及其在智能科学中的应用。主持国家自然科学基金重大计划培育项目、面上项目、青年基金等，在国际顶级会议和期刊发表论文60余篇，谷歌引用超过7000次。获国家自然科学二等奖、教育部自然科学一等奖，入选吴文俊青年科技奖、博士后创新人才支持计划、AI 2000学者榜单、全球前2%顶尖科学家榜单、百度AI华人新星百强榜单等。
+张子威，现任北京航空航天大学副教授，2021年于清华大学计算机系取得博士学位，研究方向为图机器学习与大模型结合，以及其在智能科学中的应用。主持国家自然科学基金重大计划培育项目、面上项目、青年基金、北京市青年重点项目等，在国际顶级会议和期刊发表论文60余篇，谷歌引用超过7000次。获国家自然科学二等奖、教育部自然科学一等奖，入选吴文俊青年科技奖、博士后创新人才支持计划、AI 2000学者榜单、全球前2%顶尖科学家榜单、百度AI华人新星百强榜单等。
 
 Ziwei Zhang is currently an associate professor at Beihang University. He received his B.S. from Mathematics and Physics and Ph.D. from the Department of Computer Science and Technology, Tsinghua University, in 2016 and 2021, respectively. His current research interests focus on the intersection between graph machine learning and LLMs, e.g., graph foundation model, Graph LLM, GraphRAG, Graph Agent, Graph-enhanced LLM reasoning, etc. He has published over 60 papers in prestigious conferences and journals, including ICML, NeurIPS, KDD, ICLR, CVPR, AAAI, IJCAI, TPAMI, and TKDE.
 
@@ -69,6 +70,7 @@ Publications
 
 2026
 ======
+* [W3] Tianyin Liao, Chunyu Hu, Yicheng Sui, Xingxuan Zhang, Peng Cui, Jianxin Li, **Ziwei Zhang**. TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models. _ICML GFM workshop 2026_ [(Paper)](https://arxiv.org/abs/2602.08592)
 * [C45] <font color='red'> New! </font>Haoyue Deng, Menghui Wang, Yunlong Zhou, **Ziwei Zhang**, Ran Zhang, Chunming Hu, Xiao Wang. Discriminative Mixture-of-Experts on Graphs with Reliable Expert Fusion. _**ICML**, 2026. (Full Paper, <font color='red'>CCF-A</font>)_ 
 * [C44] Yunxuan Fang, **Ziwei Zhang**, Xinhe Wang. When Adaptation Fails: A Gradient-Based Diagnosis of Collapsed Gating in Vision-Language Prompt Learning.  _**ICME**, 2026. (CCF-B)_
 * [C43] <font color='red'> New! </font>Yunan Wang, Jianxin Li, **Ziwei Zhang**<sup>#</sup>. Global-Recent Semantic Reasoning on Dynamic Text-Attributed Graphs with Large Language Models. _**ICLR**, 2026. (<sup>#</sup>: corresponding author)_ [(Paper)](https://openreview.net/forum?id=puocvrFZRl)
@@ -79,7 +81,8 @@ Publications
 * [C38] <font color='red'> New! </font> Tianyin Liao, **Ziwei Zhang**<sup>#</sup>, Yufei Sun, Chunyu Hu, Jianxin Li. Invariant Graph Transformer for Out-of-Distribution Generalization. _**KDD**, 2026. (Full Paper, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://arxiv.org/abs/2508.00304)
 * [C37] <font color='red'> New! </font> Chunyu Hu, Tianyin Liao, Yicheng Sui, Ran Zhang, Xiao Wang, **Ziwei Zhang**<sup>#</sup>. Invariant Conditional Molecular Generation under Distribution Shift. _**AAAI**, 2026. (Full Paper, oral, <font color='red'>CCF-A</font>, <sup>#</sup>: corresponding author)_ [(paper)](https://zw-zhang.github.io/files/2026_AAAI_ICMOL.pdf)
 * [C36] <font color='red'> New! </font> Jiayi Luo, Qingyun Sun, Lingjuan Lyu, **Ziwei Zhang**, Haonan Yuan, Xingcheng Fu, Jianxin Li. Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. _**AAAI**, 2026. (Full Paper, <font color='red'>CCF-A</font>)_ [(paper)](https://zw-zhang.github.io/files/2026_AAAI_GFMBA.pdf)
-* [J18] Xingcheng Fu, Qingyun Sun, **Ziwei Zhang**, Jianxin Li. Curvature-Aware Graph Foundation Models: A Manifold Geometric Perspective. **FCS**, 2026. 
+* [J19] Xin Wang, Haoyang Li, Haibo Chen, **Ziwei Zhang**, Wenwu Zhu. Automated Graph Machine Learning. _ACM TKDD, 2026._
+* [J18] Xingcheng Fu, Qingyun Sun, **Ziwei Zhang**, Jianxin Li. Curvature-Aware Graph Foundation Models: A Manifold Geometric Perspective. _**FCS**, 2026._ 
 * [J17] 张子威，王啸，崔鹏，朱文武。图机器学习泛化性：回顾与展望. [(paper)](https://dl.ccf.org.cn/article/articleDetail.html?type=xhtx_thesis&_ack=1&id=7863678077847552)
 
 2025
@@ -159,7 +162,6 @@ Before 2020
 Preprints
 =====
 * Haonan Yuan, Qingyun Sun, Junhua Shi, Mingjun Liu, Jiaqi Yuan, Ziwei Zhang, Xingcheng Fu, Jianxin Li. Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG. _arXiv:2603.07179._ [(Paper)](https://arxiv.org/abs/2603.07179)
-* Tianyin Liao, Chunyu Hu, Yicheng Sui, Xingxuan Zhang, Peng Cui, Jianxin Li, Ziwei Zhang. TFMLinker: Universal Link Predictor by Graph In-Context Learning with Tabular Foundation Models. _arXiv 2602.08592._ [(Paper)](https://arxiv.org/abs/2602.08592)
 * Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, Qingyun Sun, Jia Li, Jianxin Li, Ziwei Zhang. Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models. _arXiv 2601.11342._ [(Paper)](https://arxiv.org/abs/2601.11342)
 * Zhibiao Wang, Yunlong Zhou, **Ziwei Zhang**, Mengmei Zhang, Shirui Pan, Chunming Hu, Xiao Wang. Adaptive Tokenization: On the Hop-Overpriority Problem in Tokenized Graph Learning Models. _arXiv 2505.15845_ [(paper)](https://arxiv.org/abs/2505.15845)
 * Yang Yao, Xin Wang, Zeyang Zhang, Yijian Qin, **Ziwei Zhang**, Xu Chu, Yuekui Yang, Wenwu Zhu, Hong Mei. Exploring the Potential of Large Language Models in Graph Generation. _arXiv 2403.14358_ [(Paper)](http://arxiv.org/abs/2403.14358)
@@ -238,7 +240,7 @@ I am fortunate to have supervised/collaborated with the following students in Be
 | J. Yuan  | Ph.D. | 2030(expected) | In submission	  | - |
 | J. Luo   | Ph.D. | 2029(expected) | AAAI 			      | - |
 | Y. Wei   | Ph.D. | 2027(expected) | WWW			        | - |
-| H. Yuan  | Ph.D. | 2026(expected) | NeurIPS 		    | - |
+| H. Yuan  | Ph.D. | 2026           | NeurIPS 		    | Postdoc at Tsinghua |
 | X. You   | M.S.  | 2028(expected) | - 			        | - |
 | Z. Guo   | M.S.  | 2027(expected) | NeurIPS 		    | - |
 | Y. Gao   | B.S.  | 2025 			| ICLR			          | Master at HKUST |
@@ -249,11 +251,11 @@ While I was at Tsinghua University, I was fortunate to had collaborated with the
 
 | Name| Degree | Grad Year | Coauthor| Next Position |
 |-----|-----|-----|-----|-----|
-| Y. Yao   | Ph.D. | 2026(expected) | AAAI, ICME | - |
+| Y. Yao   | Ph.D. | 2026 | AAAI, ICME | Aerospace-related Company |
 | Z. Zhang | Ph.D. | 2025 | NeurIPS\*3, ICML, KDD, AAAI\*2| Top Seed at ByteDance |
 | Y. Qin   | Ph.D. | 2024 | NeurIPS\*2,ICML | Top Minds at Huawei|
 | H. Li    | Ph.D. | 2023 | NeurIPS\*2, TKDE\*3, ICML, TOIS| Postdoc at Weill Cornell Medicine|
-| C. Ge    | M.S.  | 2026(expected) | AAAI | - |
+| C. Ge    | M.S.  | 2026 | AAAI | Tencent |
 | P. Li    | M.S.  | 2025 | KDD | Ph.D. at Yale |
 | J. Cai   | M.S.  | 2023 | AAAI | Ph.D. at USC|
 | B. Xie   | M.S.  | 2023 | KDD, CVPR | Researcher at a bank |
